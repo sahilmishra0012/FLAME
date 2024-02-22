@@ -1,0 +1,785 @@
+{
+    "environmental tax": [
+        "Environmental Tax: A levy imposed on activities, products, or services that cause environmental harm, aiming to reduce the negative impacts and promote sustainable practices."
+    ],
+    "mediterranean sea": [
+        "Mediterranean Sea: A sea connected to the Atlantic Ocean, surrounded by the Mediterranean region and almost completely enclosed by land, known for its unique biodiversity and cultural significance."
+    ],
+    "protection of animals": [
+        "Protection of Animals: Measures and policies aimed at preserving and safeguarding wild and domestic animals from harm, exploitation, and extinction, often involving habitat conservation and legal regulations."
+    ],
+    "stagnant water": [
+        "Stagnant Water: Water that is still and not flowing, often accumulating in pools or ponds, which can become a breeding ground for mosquitoes and a source of waterborne diseases."
+    ],
+    "bad weather": [
+        "Bad Weather: Weather conditions that are perceived as unpleasant, harmful, or dangerous, including storms, heavy rain, high winds, extreme temperatures, and other disruptive or hazardous atmospheric phenomena."
+    ],
+    "monkey": [
+        "Monkey: A common name for a variety of primates, typically characterized by a tail, high intelligence, and social behaviors, found in various regions around the world, especially in tropical forests."
+    ],
+    "environmental education": [
+        "Environmental Education: The process of teaching and learning about the natural environment and the impact of human activities on it, with the aim of fostering awareness, knowledge, and sustainable practices among individuals and communities."
+    ],
+    "environmental research": [
+        "Environmental Research: The scientific study of the environment and its various components, including air, water, soil, and living organisms, often focusing on understanding environmental problems and developing solutions."
+    ],
+    "chemical waste": [
+        "Chemical Waste: Waste materials, often hazardous, resulting from industrial, laboratory, or other activities involving chemicals, which require special handling and disposal to prevent environmental contamination and health risks."
+    ],
+    "eu emissions trading scheme": [
+        "EU Emissions Trading Scheme (ETS): A major policy tool of the European Union for reducing greenhouse gas emissions, where a limit is set on emissions and companies can buy or sell emission allowances as part of a cap-and-trade system."
+    ],
+    "deforestation": [
+        "Deforestation: The removal of a forest or stand of trees where the land is thereafter converted to a non-forest use, often leading to habitat loss, biodiversity decline, and adverse environmental impacts."
+    ],
+    "emission trading": [
+        "Emission Trading: A market-based approach to controlling pollution by providing economic incentives for reducing the emissions of pollutants, typically through a cap-and-trade system."
+    ],
+    "arctic ocean": [
+        "Arctic Ocean: The smallest and shallowest of the world's five major oceans, located mostly in the Arctic north polar region, characterized by unique marine life and environmental conditions."
+    ],
+    "coastal protection": [
+        "Coastal Protection: Efforts and structures designed to protect coastal areas from erosion, flooding, and other environmental or human-made threats, often involving shoreline stabilization and habitat conservation."
+    ],
+    "sea-bed": [
+        "Sea-bed: The bottom of a sea or ocean, consisting of various types of geology and marine ecosystems, important for its biodiversity and resources like minerals and fossil fuels."
+    ],
+    "nuisance": [
+        "Nuisance: An act, condition, or thing that is annoying, unpleasant, or obnoxious, often causing inconvenience or harm, and can include environmental issues like noise, pollution, and illegal dumping."
+    ],
+    "physical environment": [
+        "Physical Environment: The physical surroundings in which an organism lives, including both natural elements like air, water, and land, and human-made structures and areas."
+    ],
+    "global warming": [
+        "Global Warming: The long-term rise in the average temperature of the Earth's climate system, largely attributed to the increased levels of greenhouse gases produced by human activities."
+    ],
+    "reduction of gas emissions": [
+        "Reduction of Gas Emissions: Efforts and strategies aimed at decreasing the release of gases, especially greenhouse gases, into the atmosphere to mitigate climate change and air pollution."
+    ],
+    "area management": [
+        "Area Management: The process of planning, controlling, and overseeing the use and development of land and other resources in a specific area, often aiming to balance environmental, economic, and social needs."
+    ],
+    "quality of the environment": [
+        "Quality of the Environment: Refers to the state or health of the environment, often assessed based on factors like air and water purity, biodiversity, ecosystem health, and the level of pollutants."
+    ],
+    "antarctica": [
+        "Antarctica: The southernmost continent, largely covered in ice. It plays a critical role in the Earth's climate and ocean systems and is a key area of study for understanding environmental change."
+    ],
+    "fight against insects": [
+        "Fight Against Insects: Efforts to control or reduce insect populations that are considered pests or vectors for disease. This can involve environmental, chemical, or biological methods, but also requires consideration of ecological impacts."
+    ],
+    "corrosion": [
+        "Corrosion: The process by which metals are chemically degraded by environmental factors, such as oxygen, moisture, and pollutants. It's an environmental concern due to its impact on infrastructure and potential release of harmful substances."
+    ],
+    "eu emission allowance": [
+        "EU Emission Allowance: A component of the European Union's Emissions Trading System (ETS). It's a permit that allows a company to emit a certain amount of greenhouse gases, with the goal of reducing overall emissions through a cap-and-trade system."
+    ],
+    "animal life": [
+        "Animal Life: Refers to the totality of different animals that inhabit an ecosystem. The diversity and health of animal life are important indicators of environmental quality and ecosystem health."
+    ],
+    "environmental policy": [
+        "Environmental Policy: Rules, regulations, and practices aimed at protecting the environment. These policies can be set by governments, organizations, or communities and cover areas like pollution, natural resource management, and conservation."
+    ],
+    "atlantic ocean": [
+        "Atlantic Ocean: The second-largest ocean on Earth, bordering Europe, Africa, the Americas, and the Arctic. It lies beside north sea"
+    ],
+    "fight against wastage": [
+        "Fight Against Wastage: Efforts aimed at reducing waste production and promoting efficient use of resources. This includes recycling, reducing consumption, and improving product design and manufacturing processes."
+    ],
+    "inshore grounds": [
+        "Inshore Grounds: Areas near the coast, often used for activities like fishing. These environments are ecologically important and sensitive, requiring careful management to balance human use and environmental health."
+    ],
+    "industrial pollution": [
+        "Industrial Pollution: Pollution originating from industrial activities. This includes emissions to air, discharges to water, and land contamination. It's a major focus of environmental regulation and pollution control strategies."
+    ],
+    "organic pollution": [
+        "Organic Pollution: Pollution caused by organic substances, such as pesticides, food waste, and sewage. It can lead to problems like water eutrophication, harming aquatic life and affecting water quality."
+    ],
+    "indian ocean": [
+        "Indian Ocean: The third-largest ocean, bordered by Asia, Africa, Australia, and the Southern Ocean. It's an important region for marine biodiversity, climate regulation, and is also subject to significant environmental challenges."
+    ],
+    "mountain": [
+        "Mountain: A large natural elevation of the earth's surface rising abruptly from the surrounding level. Mountains play a crucial role in biodiversity, water cycles, and serve as indicators and regulators of climate change."
+    ],
+    "carcinogenic substance": [
+        "Carcinogenic Substance: A substance that is known or believed to cause cancer in living organisms. These substances are a major concern in environmental health, leading to regulations limiting exposure in the environment and workplaces."
+    ],
+    "north sea": [
+        "North Sea: A marginal sea of the Atlantic Ocean located between Great Britain, Scandinavia, Germany, the Netherlands, Belgium, and France."
+    ],
+    "percolation water": [
+        "Percolation Water: Water that seeps through the soil and rock layers, potentially carrying pollutants into groundwater systems. This process is important in the natural filtration of water and in assessing the risks of soil and groundwater contamination."
+    ],
+    "chemical pollution": [
+        "Chemical Pollution: Pollution caused by chemical substances, including industrial chemicals, pesticides, and heavy metals. It's a major environmental concern due to its potential to harm wildlife, ecosystems, and human health."
+    ],
+    "water": [
+        "Water: A vital natural resource that covers about 71% of the Earth's surface. It's essential for all forms of life, ecosystems, and human activities, but is increasingly under threat from pollution, overuse, and climate change."
+    ],
+    "biosphere": [
+        "Biosphere: The global ecological system integrating all living beings and their relationships, including their interactions with the elements of the lithosphere, hydrosphere, and atmosphere. It's the global sum of all ecosystems and a key focus in understanding global environmental change."
+    ],
+    "surface water": [
+        "Surface Water: Water that collects on the surface of the ground, including rivers, lakes, streams, ponds, floodwater, and runoff. It is distinct from groundwater and atmospheric water."
+    ],
+    "sewage sludge": [
+        "Sewage Sludge: A semi-solid byproduct from wastewater treatment processes. It often contains both organic and inorganic materials, including pathogens and chemical pollutants."
+    ],
+    "storage of waste": [
+        "Storage of Waste: The containment of waste materials in a designated area or facility to prevent contamination or harm to the environment. This includes landfills, recycling facilities, and hazardous waste storage sites."
+    ],
+    "over-exploitation of resources": [
+        "Over-exploitation of Resources: The excessive and unsustainable use of natural resources, leading to their depletion or degradation. This can include water, soil, minerals, and biological resources."
+    ],
+    "protection of plant life": [
+        "Protection of Plant Life: Measures taken to conserve and protect plant species and their habitats. This includes the management of natural areas, reforestation, and policies to prevent the destruction of native vegetation."
+    ],
+    "fire protection": [
+        "Fire Protection: Strategies and measures employed to reduce the risk of fire and to protect against the impact of fires. This includes fire suppression systems, controlled burns, and public awareness campaigns."
+    ],
+    "chiroptera": [
+        "Chiroptera: The scientific name for wild mammals species bats."
+    ],
+    "adriatic sea": [
+        "Adriatic Sea: A body of water separating the Italian Peninsula from the Balkan Peninsula. It's a part of the Mediterranean Sea and is known for its biodiversity, including numerous fish and marine species."
+    ],
+    "climate change policy": [
+        "Climate Change Policy: Laws, regulations, and actions developed by governments and organizations to address and mitigate the impacts of climate change. This includes emission reduction targets, renewable energy development, and adaptation strategies."
+    ],
+    "domestic waste": [
+        "Domestic Waste: Waste generated from households or residential activities. It includes everyday items like food scraps, paper, plastics, and other materials disposed of by individuals."
+    ],
+    "environmental monitoring": [
+        "Environmental Monitoring: The process of systematically collecting, analyzing, and interpreting data about natural resources and the environment. This includes monitoring air and water quality, wildlife populations, and changes in ecosystems."
+    ],
+    "terrestrial ecosystem": [
+        "Terrestrial Ecosystem: An ecosystem found on land, as opposed to aquatic ecosystems. These can range from forests and grasslands to deserts and tundra, each supporting different types of life forms."
+    ],
+    "agricultural waste": [
+        "Agricultural Waste: Waste produced as a result of agricultural activities. This includes materials like manure, crop residues, and discarded pesticides."
+    ],
+    "equatorial zone": [
+        "Equatorial Zone: The region of the Earth's surface near the equator, characterized by a hot and often humid climate. This zone is known for its rich biodiversity, particularly in rainforests."
+    ],
+    "metal pollution": [
+        "Metal Pollution: The contamination of the environment with metals. This can be due to industrial activities, waste disposal, or natural geological processes, leading to harmful effects on ecosystems and human health."
+    ],
+    "countryside conservation": [
+        "Countryside Conservation: The practice of protecting and managing rural areas and their natural features and wildlife. It involves preserving landscapes, maintaining biodiversity, and supporting sustainable land use practices."
+    ],
+    "fire": [
+        "Fire: A rapid oxidation process, which is a chemical reaction resulting in the emission of heat and light. In the environmental context, it refers to both natural wildfires and human-caused fires, which can have significant ecological impacts."
+    ],
+    "climatic zone": [
+        "Climatic Zone: A classification of the Earth's climate into distinct regions, based on temperature, precipitation, and other climatic factors. Examples include tropical, temperate, and polar zones."
+    ],
+    "polluted area": [
+        "Polluted Area: A region or environment that has been contaminated with pollutants. This can include air, water, or soil pollution and often results from industrial activities, urban development, or improper waste disposal."
+    ],
+    "animal resources": [
+        "Animal Resources: Refers to the animals and their products that are used by humans. This includes livestock, wildlife, and marine species, and encompasses their roles in agriculture, research, and as part of ecosystems."
+    ],
+    "wastewater": [
+        "Wastewater: Water that has been adversely affected in quality by anthropogenic influence. It comprises liquid waste discharged by domestic residences, commercial properties, industry, and/or agriculture and can contain a wide range of potential contaminants and concentrations."
+    ],
+    "emission allowance": [
+        "Emission Allowance: A legal entitlement allocated to a company or unit by a government that allows the emission of a specified amount of a substance, typically carbon dioxide or other greenhouse gases, within a specified period."
+    ],
+    "dangerous substance": [
+        "Dangerous Substance: Any substance that poses a significant risk to health, safety, or the environment due to its toxic, corrosive, flammable, reactive, or otherwise hazardous nature."
+    ],
+    "dumping of waste": [
+        "Dumping of Waste: The disposal of waste (often hazardous) in an inappropriate or illegal manner, such as in non-designated areas, in the natural environment, or in bodies of water."
+    ],
+    "drinking water": [
+        "Drinking Water: Water that is safe and suitable for human consumption. It should be free from harmful contaminants and meet established safety standards."
+    ],
+    "waste disposal": [
+        "Waste Disposal: The process of handling, processing, managing, and disposing of waste materials. This includes collection, transport, treatment, and disposal of waste, along with monitoring and regulation of the waste management process."
+    ],
+    "conservation of resources": [
+        "Conservation of Resources: The practice of managing and utilizing natural resources wisely to ensure their long-term sustainability. This includes preserving natural habitats, reducing the consumption of non-renewable resources, and promoting the use of renewable resources."
+    ],
+    "plant life": [
+        "Plant Life: All forms of vegetation, including trees, shrubs, grasses, and other types of plants. Plant life is essential for maintaining ecological balance and biodiversity."
+    ],
+    "environmental standard": [
+        "Environmental Standard: A guideline or limit on the amount of pollutants or emissions that can be released into the environment. These standards are set to protect human health and the environment."
+    ],
+    "antarctic ocean": [
+        "Antarctic Ocean: Also known as the Southern Ocean, it is the body of water encircling Antarctica, comprising the southernmost parts of the Pacific, Atlantic, and Indian Oceans."
+    ],
+    "reptile": [
+        "Reptile: A class of cold-blooded, air-breathing vertebrates that have scales or scutes covering their body. Examples include snakes, lizards, turtles, and crocodiles."
+    ],
+    "environment": [
+        "Environment: The sum of all external conditions and influences affecting the life, development, and survival of organisms, including physical, chemical, and biological factors."
+    ],
+    "renewable resources": [
+        "Renewable Resources: Natural resources that can be replenished or renewed within a human lifespan. They include resources like solar energy, wind energy, and sustainable timber."
+    ],
+    "hunting regulations": [
+        "Hunting Regulations: Rules and laws governing the practice of hunting wildlife. These regulations are designed to manage wildlife populations, ensure safety, and maintain ecological balance."
+    ],
+    "management of resources": [
+        "Management of Resources: The deliberate and strategic use of resources (natural, financial, human, etc.) to achieve specific objectives, often involving conservation and sustainable practices."
+    ],
+    "deposit on a polluting product": [
+        "Deposit on a Polluting Product: A financial charge added to the price of products that have a potential for pollution. This charge is often refundable when the product or its packaging is returned for recycling or proper disposal."
+    ],
+    "harmful plant": [
+        "Harmful Plant: A plant that is detrimental to other plants, animals, or ecosystems, often due to its invasive nature, toxicity, or ability to disrupt natural habitats."
+    ],
+    "clean development mechanism": [
+        "Clean Development Mechanism (CDM): A mechanism defined under the Kyoto Protocol that allows emission-reduction projects in developing countries to earn certified emission reduction (CER) credits. These credits can be traded and used by industrialized countries to meet a part of their emission reduction targets."
+    ],
+    "tradeable emission permit": [
+        "Tradeable Emission Permit: A permit that allows the holder to emit a certain amount of a pollutant and can be bought and sold on emission trading markets. This system is used to control pollution by providing economic incentives for achieving reductions in the emissions of pollutants."
+    ],
+    "hazardous waste": [
+        "Hazardous Waste: Waste that poses substantial or potential threats to public health or the environment due to its chemical, physical, or biological characteristics. It requires special handling, treatment, and disposal methods to safely manage it."
+    ],
+    "sensitive area": [
+        "Sensitive Area: A region or ecosystem that is particularly vulnerable to environmental disturbances or degradation, often requiring special protection measures due to its ecological significance, biodiversity, or cultural value."
+    ],
+    "soil pollution": [
+        "Soil Pollution: The contamination of soil with harmful substances, which can be a result of industrial activity, agricultural chemicals, improper disposal of waste, or other sources, leading to a decline in soil quality and potential harm to living organisms."
+    ],
+    "local pollution": [
+        "Local Pollution: Pollution confined to a specific area, often affecting only the immediate environment. This can include small-scale industrial activities, urban runoff, or localized air or water pollution."
+    ],
+    "noise pollution": [
+        "Noise Pollution: The presence of excessive or disturbing sounds in the environment, typically emanating from transportation systems, industrial activities, or urban development, which can adversely affect human health and wildlife."
+    ],
+    "aquatic environment": [
+        "Aquatic Environment: This refers to ecosystems in and around water bodies like lakes, rivers, oceans, and wetlands. These environments are characterized by their water-based flora and fauna and are often impacted by water pollution and climate change."
+    ],
+    "baltic sea": [
+        "Baltic Sea: A marginal sea of the Atlantic Ocean in Northern Europe, bordered by countries such as Sweden, Denmark, Finland, Russia, and others. It is known for its unique brackish water and is facing environmental challenges like eutrophication and marine pollution."
+    ],
+    "non-recoverable waste": [
+        "Non-Recoverable Waste: Waste materials that cannot be recycled or reused, often destined for disposal in landfills or incineration. This includes certain types of plastics, contaminated materials, and some industrial wastes."
+    ],
+    "aegean sea": [
+        "Aegean Sea: An elongated embayment of the Mediterranean Sea located between the Greek and Anatolian peninsulas. It is known for its rich biodiversity and historical significance but is also affected by pollution and overfishing."
+    ],
+    "non-polluting vehicle": [
+        "Non-Polluting Vehicle: A vehicle that does not emit pollutants or has minimal environmental impact, typically powered by alternative energy sources like electricity, hydrogen, or hybrid technologies."
+    ],
+    "noise level": [
+        "Noise Level: The intensity of sound in a particular environment, typically measured in decibels (dB). High noise levels can lead to noise pollution, which can affect human health and disturb wildlife."
+    ],
+    "marine mammal": [
+        "Marine Mammal: A diverse group of approximately 120 species of mammals that depend on the ocean for their existence. This includes whales, dolphins, seals, and manatees, many of which are sensitive to environmental changes and pollution."
+    ],
+    "atmospheric pollution": [
+        "Atmospheric Pollution: The presence of harmful substances in the Earth's atmosphere, which can include gases like carbon dioxide and methane, particulates, and man-made chemicals. It can lead to health problems, environmental degradation, and climate change."
+    ],
+    "resources of the sea": [
+        "Resources of the Sea: This encompasses the various biological and mineral resources found in the ocean, such as fish, crustaceans, seaweed, oil, and gas. These resources are crucial for economic and ecological reasons but are often threatened by overexploitation and pollution."
+    ],
+    "estuary": [
+        "Estuary: A partly enclosed coastal body of brackish water with one or more rivers or streams flowing into it, and with a free connection to the open sea. Estuaries are among the most biologically productive ecosystems."
+    ],
+    "marsupial": [
+        "Marsupial: A group of mammals, primarily found in Australia and the Americas, characterized by the presence of a pouch in which they carry and nurture their young. Examples include kangaroos, koalas, and opossums."
+    ],
+    "pesticide residue": [
+        "Pesticide Residue: The traces of chemicals from pesticides that remain on or in food, soil, or water after they have been applied to crops or environments to control pests and diseases."
+    ],
+    "underground storage of waste": [
+        "Underground Storage of Waste: The practice of storing waste materials below the Earth's surface, often in geological formations or specially designed caverns, as a means of waste management and to prevent surface contamination."
+    ],
+    "eu environmental policy": [
+        "EU Environmental Policy: The set of laws, regulations, and practices adopted by the European Union to protect the environment, promote sustainable development, and address issues like climate change, pollution, and biodiversity loss."
+    ],
+    "sea": [
+        "Sea: A large body of saltwater that is often connected to an ocean and may be partially or fully enclosed by land. Seas are smaller than oceans and are important for their ecological, climatic, and economic roles."
+    ],
+    "anti-pollution device": [
+        "Anti-Pollution Device: A mechanism or technology designed to reduce or eliminate the emission of pollutants. This can be found in various contexts, including vehicles (like catalytic converters), industrial plants, and urban infrastructure."
+    ],
+    "thermal discharge": [
+        "Thermal Discharge: The release of water at elevated temperatures into a river, lake, or the sea, usually from power plants or industrial processes. This can lead to thermal pollution, affecting aquatic ecosystems by changing the water temperature and oxygen levels."
+    ],
+    "volcanic eruption": [
+        "Volcanic Eruption: A geological event in which magma, ash, and gases are expelled from a volcano. This can have significant impacts on the environment, including changes in climate, air quality, and the reshaping of landscapes."
+    ],
+    "food contamination": [
+        "Food Contamination: The presence of harmful substances in food. These contaminants can be biological (like bacteria or viruses), chemical (like pesticides or heavy metals), or physical (like plastic particles), posing risks to health and the environment."
+    ],
+    "defoliation": [
+        "Defoliation: The loss of leaves from plants, often due to environmental factors such as pollution, pests, diseases, or herbicides. In a broader sense, it can also refer to deliberate removal of foliage (as in warfare), which can severely impact ecosystems."
+    ],
+    "subtropical zone": [
+        "Subtropical Zone: A geographic and climatic zone located between the tropical and temperate zones, characterized by hot, often humid summers and mild to cool winters. This zone supports a diverse range of flora and fauna adapted to these conditions."
+    ],
+    "degradation of the environment": [
+        "Degradation of the Environment: The deterioration of the environment through depletion of resources such as air, water, and soil; the destruction of ecosystems; habitat destruction; the extinction of wildlife; and pollution."
+    ],
+    "mechanical vibration": [
+        "Mechanical Vibration: Oscillations of an object or medium, which can be a source of noise and disruption in the environment. It can be caused by natural phenomena or human activities, such as construction, transportation, or industrial processes."
+    ],
+    "pollution control": [
+        "Pollution Control: The process of reducing or eliminating the release of pollutants into the environment. This includes a range of strategies, such as waste reduction, recycling, emission control technologies, and legislation to minimize environmental impact."
+    ],
+    "fur-bearing animal": [
+        "Fur-bearing Animal: Any animal whose fur is used for making clothing or other products. This term often relates to the ethical and environmental considerations of trapping and farming these animals."
+    ],
+    "marine pollution": [
+        "Marine Pollution: The introduction of harmful substances or products into the ocean and seas. These pollutants, like plastics, oil, chemicals, and sewage, can have devastating effects on marine life and ecosystems."
+    ],
+    "marine ecosystem": [
+        "Marine Ecosystem: A complex network of oceanic and sea life and their habitats. These ecosystems include a variety of habitats such as coral reefs, mangroves, tidal zones, and deep-sea environments, each supporting diverse marine life."
+    ],
+    "polar region": [
+        "Polar Region: The areas surrounding the Earth's geographic poles, characterized by extreme cold, ice, and snow. These regions are crucial for climate regulation and are home to unique flora and fauna adapted to these conditions."
+    ],
+    "exploitation of the sea-bed": [
+        "Exploitation of the Sea-bed: The extraction of resources from the ocean floor, such as oil, gas, minerals, and biological resources. This exploitation can have environmental impacts, including habitat destruction and pollution."
+    ],
+    "freshwater": [
+        "Freshwater: Water that contains minimal quantities of dissolved salts, found in rivers, lakes, streams, ponds, and wetlands. It is vital for human consumption, agriculture, industry, and supporting inland ecosystems."
+    ],
+    "pollution control measures": [
+        "Pollution Control Measures: Actions and strategies implemented to prevent or reduce pollution. These measures include technological solutions, regulatory policies, and practices like waste management, emission reduction, and sustainable resource use."
+    ],
+    "saltwater": [
+        "Saltwater: Water with a high concentration of dissolved salts, primarily found in the oceans and seas. This contrasts with freshwater and has different ecological characteristics and uses."
+    ],
+    "natural hazard": [
+        "Natural Hazard: A natural phenomenon that might have a negative effect on humans or the environment. This includes events like earthquakes, floods, hurricanes, tsunamis, and wildfires."
+    ],
+    "nature reserve": [
+        "Nature Reserve: A protected area designated for the conservation of wildlife, natural resources, and their habitats. These areas play a critical role in biodiversity conservation and environmental research."
+    ],
+    "irish sea": [
+        "Irish Sea: A body of water that separates the islands of Ireland and Great Britain. It is part of the Atlantic Ocean and is known for its unique marine life and ecological importance."
+    ],
+    "whale": [
+        "Whale: A large marine mammal belonging to the order Cetacea. Whales are known for their intelligence, complex behaviors, and are important in marine ecosystems. Their conservation is a significant environmental concern due to threats like whaling, pollution, and habitat destruction."
+    ],
+    "protected species": [
+        "Protected Species: These are species of animals or plants that are afforded protection under certain laws or agreements to prevent their extinction or to preserve biodiversity. This protection typically includes restrictions on hunting, habitat destruction, and trading of the species."
+    ],
+    "eutrophication": [
+        "Eutrophication: This is a process where water bodies, like lakes and rivers, become overly enriched with nutrients (often due to runoff from land), leading to excessive growth of algae and other plants. This can deplete oxygen in the water and harm aquatic life."
+    ],
+    "littoral": [
+        "Littoral: This term refers to the part of a sea, lake, or river that is close to the shore. In marine systems, it is often used to describe the area between the high and low tide marks."
+    ],
+    "biodiversity": [
+        "Biodiversity: This is the variety of life in a particular habitat or ecosystem. It includes the diversity of species, genetic diversity within species, and the variety of ecosystems themselves."
+    ],
+    "pollutant": [
+        "Pollutant: A pollutant is a substance or energy introduced into the environment that has undesired effects, or adversely affects the usefulness of a resource. Pollutants can be chemicals, noise, heat, or light."
+    ],
+    "environmental protection": [
+        "Environmental Protection: This is the practice of protecting the natural environment for the benefit of human health and the ecosystem. It involves policies and practices that aim to preserve, restore, or improve the natural environment."
+    ],
+    "flood": [
+        "Flood: A flood is an overflow of water that submerges land which is usually dry. Floods can result from the volume of water within a body of water, such as a river or lake, exceeding its capacity and overflowing."
+    ],
+    "cost of pollution": [
+        "Cost of Pollution: This refers to the economic, health, and environmental costs associated with pollution. These costs can be direct, like medical expenses and cleanup costs, or indirect, such as the loss of biodiversity and ecosystem services."
+    ],
+    "plain": [
+        "Plain: A plain is a large area of flat land with few trees. Plains are often fertile and are used extensively for agriculture and other human activities."
+    ],
+    "climate": [
+        "Climate: Climate is the average weather conditions in a place over a long period, typically over 30 years. It includes patterns of temperature, precipitation, humidity, wind, and seasons."
+    ],
+    "norwegian sea": [
+        "Norwegian Sea: This is a marginal sea in the North Atlantic Ocean, northwest of Norway. It is connected to the North Sea through the Skagerrak strait and the Greenland Sea to the north."
+    ],
+    "rodent": [
+        "Rodent: Rodents are mammals of the order Rodentia, characterized by a single pair of continuously growing incisors in each of the upper and lower jaws. Common examples include mice, rats, squirrels, and beavers."
+    ],
+    "insect": [
+        "Insect: Insects are a class of invertebrates within the arthropod phylum that have a chitinous exoskeleton, a three-part body (head, thorax, and abdomen), three pairs of jointed legs, compound eyes, and one pair of antennae."
+    ],
+    "underwater mineral resources": [
+        "Underwater Mineral Resources: These are minerals found beneath the ocean floor. They include resources like oil and gas, as well as minerals like manganese nodules, cobalt, and rare earth elements."
+    ],
+    "cyclone": [
+        "Cyclone: A cyclone is a large scale air mass that rotates around a strong center of low atmospheric pressure. They are characterized by inward spiraling winds that rotate counterclockwise in the Northern Hemisphere and clockwise in the Southern Hemisphere."
+    ],
+    "drought": [
+        "Drought: A drought is a prolonged period of abnormally low rainfall, leading to a shortage of water. It can have a significant impact on ecosystems, agriculture, and societies."
+    ],
+    "environmental liability": [
+        "Environmental Liability: This refers to the legal obligation of an individual, company, or organization to compensate for damage caused to the environment. This includes the cost of remediation and compensation for harm to human health and the environment."
+    ],
+    "marine environment": [
+        "Marine Environment: This encompasses all the living and non-living things in the oceans and seas. It includes the diverse ecosystems found in these waters, such as coral reefs, kelp forests, and the open sea."
+    ],
+    "seismic monitoring": [
+        "Seismic Monitoring: This is the process of detecting and recording the vibrations in the Earth, particularly earthquakes. It is used for understanding geological activity and can help in predicting earthquakes."
+    ],
+    "exploitation of resources": [
+        "Exploitation of Resources: This refers to the use of natural resources for economic growth, industrial development, and human needs. It can include extraction of minerals, deforestation, fishing, and the use of fossil fuels."
+    ],
+    "stratospheric pollution": [
+        "Stratospheric Pollution: This refers to pollutants that are released into or accumulate in the Earth's stratosphere, a layer of the atmosphere approximately 10 to 50 kilometers above the Earth's surface. A common example is the depletion of the ozone layer due to chlorofluorocarbons (CFCs)."
+    ],
+    "environmental statistics": [
+        "Environmental Statistics: This term encompasses the collection, analysis, and interpretation of data pertaining to the environment. It includes statistics on air and water quality, biodiversity, land use, energy consumption, waste management, and pollution levels."
+    ],
+    "use of water": [
+        "Use of Water: This refers to the ways in which water is utilized by humans and industries. It includes drinking, sanitation, agricultural irrigation, industrial processes, hydroelectric power generation, and recreational activities."
+    ],
+    "natural disaster": [
+        "Natural Disaster: A natural disaster is a severe and sudden event caused by environmental factors that can result in significant damage and loss of life. Examples include earthquakes, floods, hurricanes, tsunamis, and volcanic eruptions."
+    ],
+    "plant resources": [
+        "Plant Resources: This term refers to the variety of plants used by humans for purposes like food, medicine, fuel, fiber, and building materials. It also includes the ecosystems and biodiversity necessary for the sustainability of these plant species."
+    ],
+    "greenhouse gas": [
+        "Greenhouse Gas: Greenhouse gases are components of the atmosphere that contribute to the greenhouse effect by absorbing infrared radiation. Key examples are carbon dioxide (CO2), methane (CH4), and nitrous oxide (N2O)."
+    ],
+    "waste": [
+        "Waste: Waste refers to materials that are discarded because they are no longer useful or desired. This includes solid waste like garbage, liquid waste such as sewage, and hazardous waste which is harmful to human health or the environment."
+    ],
+    "dust": [
+        "Dust: Dust is an atmospheric pollutant which consists of fine particles of solid matter, often airborne, resulting from natural processes or human activities like construction, agriculture, and industrial operations which results in air pollution."
+    ],
+    "water management": [
+        "Water Management: This is the practice of managing water resources to meet current and future human demand while ensuring the sustainability of ecosystems. It involves water conservation, quality control, and allocation strategies."
+    ],
+    "tropical zone": [
+        "Tropical Zone: The tropical zone refers to regions of the Earth near the equator, characterized by warm temperatures year-round and varying precipitation patterns. These regions are known for their rich biodiversity and complex ecosystems."
+    ],
+    "marine life": [
+        "Marine Life: Marine life encompasses all organisms living in the ocean, including fish, mammals, birds, plants, and microorganisms. It is vital for maintaining marine ecosystems and supports human life through food, medicine, and climate regulation."
+    ],
+    "natural resources": [
+        "Natural Resources: These are materials or components found in nature that can be used for economic gain or other human benefits. Examples include water, minerals, timber, fish, and fossil fuels."
+    ],
+    "desertification": [
+        "Desertification: Desertification is the process by which fertile land becomes desert, typically as a result of drought, deforestation, or inappropriate agricultural practices."
+    ],
+    "hospital waste": [
+        "Hospital Waste: This refers to waste generated by hospitals and healthcare facilities, including medical instruments, chemical substances, biological waste, and pharmaceuticals, which often require special disposal methods due to their hazardous nature."
+    ],
+    "pollution from land-based sources": [
+        "Pollution from Land-Based Sources: This term refers to pollution that originates from terrestrial sources, including agricultural runoff, industrial discharge, urban waste, and air pollution settling on land and water bodies."
+    ],
+    "joint implementation": [
+        "Joint Implementation: In environmental policy, joint implementation is a mechanism under the Kyoto Protocol where industrialized countries can invest in emission reduction projects in other industrialized countries as a cost-effective way to meet their own emission reduction targets."
+    ],
+    "lake": [
+        "Lake: A lake is a large body of water surrounded by land, often freshwater, and not part of the ocean. Lakes are important for biodiversity, water supply, recreation, and sometimes for power generation."
+    ],
+    "noise": [
+        "Noise: In an environmental context, noise refers to unwanted or harmful outdoor sound created by human activities, such as traffic, industrial processes, and construction, which can have detrimental effects on human health and wildlife."
+    ],
+    "humid zone": [
+        "Humid Zone: This term describes regions with high levels of atmospheric moisture, often resulting in significant rainfall and lush vegetation. These zones are crucial for water cycles and biodiversity."
+    ],
+    "economic instrument for the environment": [
+        "Economic Instrument for the Environment: These are tools used in environmental policy to provide economic incentives or disincentives (like taxes, subsidies, or trading schemes) to encourage environmentally beneficial practices and reduce harmful activities."
+    ],
+    "destruction of crops": [
+        "Destruction of Crops: This refers to the significant damage or loss of cultivated plants (crops) due to various factors such as pests, diseases, extreme weather conditions, or human activities like deforestation or industrialization."
+    ],
+    "arid zone": [
+        "Arid Zone: An arid zone is a region characterized by a severe lack of available water, to the extent of hindering or preventing the growth and development of plant and animal life. These regions typically receive very little rainfall."
+    ],
+    "inflammable product": [
+        "Inflammable Product: An inflammable product is a substance that is easily ignited and capable of burning rapidly. These products pose a significant fire risk."
+    ],
+    "environmental indicator": [
+        "Environmental Indicator: An environmental indicator is a parameter or value derived from the environment, representing key elements of ecosystem health, and is used to assess changes in the environment, often due to human activity."
+    ],
+    "arctic": [
+        "Arctic: The Arctic is the northernmost region of the Earth, characterized by extreme cold, ice-covered seas, tundra, and distinct flora and fauna adapted to cold environments. It includes parts of eight countries and is centered around the North Pole."
+    ],
+    "toxic substance": [
+        "Toxic Substance: A toxic substance is a chemical or compound that can cause harm or illness to living organisms, either through ingestion, inhalation, or contact with skin."
+    ],
+    "biotope": [
+        "Biotope: A biotope is a region with uniform environmental conditions providing a living place for a specific assemblage of plants and animals. Biotopes are usually smaller than biomes and are essentially the habitat of a community."
+    ],
+    "protection of animal life": [
+        "Protection of Animal Life: This refers to the efforts and measures taken to preserve and safeguard wildlife and their habitats, often to protect species from extinction or harm due to human activities."
+    ],
+    "wolf": [
+        "Wolf: A wolf is a wild carnivorous mammal belonging to the genus Canis. Wolves are known for their pack behavior and are found in many parts of the world, including North America, Europe, Asia, and North Africa."
+    ],
+    "exploitation of the seas": [
+        "Exploitation of the Seas: This term refers to the human use of oceanic resources for economic activities such as fishing, oil extraction, mineral mining, and transportation, which can have various environmental impacts."
+    ],
+    "exhaustion of resources": [
+        "Exhaustion of Resources: This is the depletion of natural resources due to overconsumption or unsustainable use, leading to a reduction in the availability of these resources for future generations."
+    ],
+    "polluter pays principle": [
+        "Polluter Pays Principle: A principle in environmental policy that requires the party responsible for producing pollution to bear the costs associated with managing and mitigating it. This principle is meant to deter pollution and encourage eco-friendly practices."
+    ],
+    "oil pollution": [
+        "Oil Pollution: Oil pollution involves the release of oil into the environment, typically oceans or coastal areas, causing harm to wildlife, ecosystems, and potentially human health. It often results from oil spills or leaks."
+    ],
+    "water pollution": [
+        "Water Pollution: Water pollution is the contamination of water bodies (like lakes, rivers, oceans, aquifers) by harmful substances or heat, resulting in a detrimental effect on aquatic life and potentially human health."
+    ],
+    "pollution": [
+        "Pollution: Pollution refers to the introduction of contaminants into the natural environment, causing adverse change. It can take the form of chemical substances, noise, heat, or light."
+    ],
+    "climate change": [
+        "Climate Change: Climate change is the long-term alteration of temperature and typical weather patterns in a place. It's largely attributed to human activities, especially the emission of greenhouse gases."
+    ],
+    "dolphin": [
+        "Dolphin: Dolphins are a group of aquatic mammals known for their intelligence, playful behavior, and often friendly appearance. They are part of the family Delphinidae and are found worldwide."
+    ],
+    "waste management": [
+        "Waste Management: Waste management involves the collection, transport, treatment, and disposal of waste materials. It also encompasses the legal and regulatory framework that relates to waste management and guidance on recycling."
+    ],
+    "industrial waste": [
+        "Industrial Waste: Industrial waste is the waste produced by industrial activity, including chemicals, materials left over from the manufacturing process, and other by-products. Managing this waste responsibly is crucial to minimize environmental impact."
+    ],
+    "lynx": [
+        "Lynx: The lynx is a medium-sized wild cat known for its sharp vision, characterized by its tufted ears, short tail, and distinctive facial ruff. Lynxes are typically found in the northern forests of Europe, Asia, and North America."
+    ],
+    "english channel": [
+        "English Channel: A body of water that separates southern England from northern France and links the southern part of the North Sea to the Atlantic Ocean."
+    ],
+    "ligurian sea": [
+        "Ligurian Sea: Part of the Mediterranean Sea located between the Italian Riviera (Liguria and Tuscany) and the island of Corsica."
+    ],
+    "noise protection": [
+        "Noise Protection: Measures and techniques used to reduce noise pollution, including sound insulation and the implementation of noise barriers."
+    ],
+    "mineral resources": [
+        "Mineral Resources: Natural resources in the form of minerals extracted from the Earth, used for various purposes in industry and manufacturing."
+    ],
+    "decontamination": [
+        "Decontamination: The process of removing or neutralizing contaminants, such as pollutants or hazardous materials, from an environment, object, or area."
+    ],
+    "environmental law": [
+        "Environmental Law: A branch of law focused on the regulation and management of the interaction between humans and the natural environment to protect the environment."
+    ],
+    "disaster area": [
+        "Disaster Area: A region or location that has been severely affected by a natural or man-made disaster, often requiring emergency response and rehabilitation efforts."
+    ],
+    "man-made disaster": [
+        "Man-Made Disaster: A disaster resulting from human activities, such as industrial accidents, oil spills, or nuclear meltdowns, causing significant harm to the environment and human health."
+    ],
+    "thermal pollution": [
+        "Thermal Pollution: The degradation of water quality by any process that changes ambient water temperature, often due to the discharge of heated industrial effluent or cooling water from power plants."
+    ],
+    "island": [
+        "Island: A piece of land completely surrounded by water, which is smaller than a continent and larger than a rock."
+    ],
+    "ecosystem": [
+        "Ecosystem: A community of living organisms interacting with each other and their non-living environment (air, water, mineral soil), functioning as a unit."
+    ],
+    "unauthorised dumping": [
+        "Unauthorised Dumping: The illegal deposit of waste in non-designated areas, leading to environmental pollution and health hazards."
+    ],
+    "industrial hazard": [
+        "Industrial Hazard: Risks associated with industrial processes and activities, including chemical leaks, explosions, and exposure to hazardous substances."
+    ],
+    "biodegradability": [
+        "Biodegradability: The capability of a substance to be broken down by biological processes, including decomposition by organisms or enzymes, into simpler, non-harmful substances."
+    ],
+    "acidification": [
+        "Acidification: The process of becoming more acidic, often referring to environmental contexts like soil acidification or the acidification of oceans due to increased carbon dioxide levels."
+    ],
+    "electronic waste": [
+        "Electronic Waste: Discarded electronic devices or components, such as computers, televisions, and mobile phones, which can be hazardous due to their toxic material content."
+    ],
+    "bathing water": [
+        "Bathing Water: Water used for recreational purposes in which water quality is important to protect human health, commonly found in lakes, rivers, and coastal areas."
+    ],
+    "continental shelf": [
+        "Continental Shelf: The extended perimeter of each continent, which lies underwater, typically shallow compared to the deep ocean floor."
+    ],
+    "combustion gases": [
+        "Combustion Gases: Gases emitted as a result of burning materials, which can include pollutants and greenhouse gases, contributing to air pollution and climate change."
+    ],
+    "pacific ocean": [
+        "Pacific Ocean: The largest and deepest of the Earth's oceanic divisions, extending from the Arctic Ocean in the north to the Southern Ocean in the south and bordered by Asia and Australia in the west and the Americas in the east."
+    ],
+    "black sea": [
+        "Black Sea: A large inland sea situated between Southeastern Europe and Western Asia. It is connected to the Mediterranean Sea through the Bosphorus Strait, and it's known for its unique water composition and biodiversity."
+    ],
+    "agricultural disaster": [
+        "Agricultural Disaster: A catastrophic event affecting agriculture, often caused by extreme weather events (like droughts, floods), pest infestations, or disease outbreaks, leading to significant loss of crops or livestock."
+    ],
+    "biological standard": [
+        "Biological Standard: A reference point, often a set of criteria or a model organism, used in scientific research and regulatory assessments to ensure consistency and accuracy in biological studies and environmental monitoring."
+    ],
+    "temperate zone": [
+        "Temperate Zone: Geographic regions of the Earth between the tropics and the polar circles, characterized by moderate temperatures, distinct seasonal changes, and a variety of ecosystems, including deciduous forests and grasslands."
+    ],
+    "water pollutant": [
+        "Water Pollutant: Any substance that, when introduced into water bodies, adversely affects the water quality and its ability to support life. This includes chemicals, waste products, and biological agents."
+    ],
+    "groundwater": [
+        "Groundwater: Water found underground in aquifers, which are layers of permeable rock, sand, or gravel. Groundwater is a critical source of fresh water for drinking, agriculture, and industrial uses."
+    ],
+    "non-ionising radiation": [
+        "Non-Ionising Radiation: A type of radiation that does not carry enough energy to ionize atoms or molecules. Examples include ultraviolet light, visible light, microwaves, and radio waves."
+    ],
+    "ocean": [
+        "Ocean: Large bodies of saltwater that cover about 71% of the Earth's surface. Oceans play a key role in climate regulation, support a vast array of biodiversity, and are crucial for global trade and transportation."
+    ],
+    "wildlife": [
+        "Wildlife: All non-domesticated plants, animals, and other organisms living in their natural habitats. Wildlife plays a vital role in maintaining ecological balance and biodiversity."
+    ],
+    "environmental impact": [
+        "Environmental Impact: The effect of human activities on the environment, including natural resources, wildlife, and ecosystem health. It's often assessed during planning stages of projects to minimize negative effects."
+    ],
+    "pollution from agricultural sources": [
+        "Pollution from Agricultural Sources: Contamination of the environment due to agricultural practices. This includes runoff from pesticides and fertilizers, animal waste, and soil erosion."
+    ],
+    "wild mammal": [
+        "Wild Mammal: Any mammal living in its natural habitat that has not been domesticated by humans. This includes a vast range of species from small rodents to large mammals like elephants and whales."
+    ],
+    "electromagnetic interference": [
+        "Electromagnetic Interference: Disturbance generated by an external source that affects an electrical circuit by electromagnetic induction, electrostatic coupling, or conduction. It can disrupt or degrade the performance of electronic equipment."
+    ],
+    "degree of pollution": [
+        "Degree of Pollution: A measure of the concentration and impact of pollutants in the environment. It helps in assessing the severity of pollution and in formulating strategies for pollution control."
+    ],
+    "waste recycling": [
+        "Waste Recycling: The process of converting waste materials into new products to prevent waste of potentially useful materials, reduce consumption of fresh raw materials, and minimize energy usage and pollution."
+    ],
+    "caspian sea": [
+        "Caspian Sea: The world's largest inland body of water, located between Europe and Asia. Despite being called a sea, it's actually a saltwater lake and is known for its unique ecological system."
+    ],
+    "soil resources": [
+        "Soil Resources: The naturally occurring, unconsolidated or loose covering of fine rock particles and organic matter on the Earth's surface, capable of supporting plant life. It's vital for agriculture and ecosystem health."
+    ],
+    "motor vehicle pollution": [
+        "Motor Vehicle Pollution: Emissions from motor vehicles, including cars, trucks, buses, and motorcycles, that release pollutants into the atmosphere, contributing to air pollution and climate change."
+    ],
+    "seal": [
+        "Seal: A marine mammal found in most oceans, particularly in colder waters. Seals are known for their streamlined bodies and ability to live both in water and on land."
+    ],
+    "export of waste": [
+        "Export of Waste: The act of sending waste materials from one country or region to another for disposal, recycling, or treatment. This practice raises environmental, ethical, and health concerns, especially when involving hazardous wastes."
+    ],
+    "erosion": [
+        "Erosion: The process by which soil, rock, and other surface material are worn away and transported by natural forces such as wind or water."
+    ],
+    "national park": [
+        "National Park: A protected area, usually designated by a national government, preserved for its natural beauty, biodiversity, and cultural heritage, and often open to the public for recreation and education."
+    ],
+    "water resources": [
+        "Water Resources: Natural sources of water that are useful or potentially useful to humans, including rivers, lakes, groundwater, and rainwater."
+    ],
+    "pollution of waterways": [
+        "Pollution of Waterways: The contamination of rivers, lakes, oceans, and other bodies of water by harmful substances, often due to human activities, which can negatively impact aquatic life and water quality."
+    ],
+    "replacement of resources": [
+        "Replacement of Resources: The process of replenishing natural resources that have been consumed or depleted, often through sustainable practices like reforestation or renewable energy sources."
+    ],
+    "national city park": [
+        "National City Park: A large protected urban area, similar to a national park, but located within a city. These parks offer recreational opportunities and preserve significant natural, cultural, or historical resources."
+    ],
+    "protected area": [
+        "Protected Area: A clearly defined geographical space, recognized and managed, through legal or other effective means, to achieve long-term conservation of nature with associated ecosystem services and cultural values."
+    ],
+    "greenhouse effect": [
+        "Greenhouse Effect: A natural process where certain gases in Earth's atmosphere, like carbon dioxide and methane, trap heat from the sun, keeping the planet warm enough to support life."
+    ],
+    "desert": [
+        "Desert: A barren area of landscape where little precipitation occurs, leading to harsh living conditions for plant and animal life. Deserts can be hot or cold."
+    ],
+    "energy resources": [
+        "Energy Resources: Natural resources that can be converted into energy to perform work, such as oil, coal, natural gas, wind, solar, and hydroelectric power."
+    ],
+    "earthquake": [
+        "Earthquake: A sudden and violent shaking of the ground, often caused by movement within the Earth's crust or volcanic action, which can result in significant damage and loss of life."
+    ],
+    "used oil": [
+        "Used Oil: Oil that has been used and contaminated, often from engines, machines, or other industrial applications, which can be a pollutant if not properly disposed of or recycled."
+    ],
+    "prevention of pollution": [
+        "Prevention of Pollution: Measures and strategies implemented to reduce or eliminate the release of pollutants into the environment, thereby protecting air, water, and soil quality."
+    ],
+    "adaptation to climate change": [
+        "Adaptation to Climate Change: Adjustments in natural or human systems in response to actual or expected climatic stimuli or their effects, which moderates harm or exploits beneficial opportunities."
+    ],
+    "geophysical environment": [
+        "Geophysical Environment: The physical components of the Earth, including its atmosphere, land, water bodies, and underlying geology, which collectively form the basis for ecosystems and human activity."
+    ],
+    "bear": [
+        "Bear: A large mammal belonging to the family Ursidae, known for its thick fur and large body. Bears are found in many regions and play important roles in their ecosystems."
+    ],
+    "ice": [
+        "Ice: Frozen water, occurring naturally as snow, glaciers, ice caps, and icebergs. Ice plays a crucial role in Earth's climate system, particularly in polar and mountainous regions."
+    ],
+    "evaluation of resources": [
+        "Evaluation of Resources: The process of assessing the availability, quality, and economic value of natural resources for sustainable management and utilization."
+    ],
+    "radioactive effluent": [
+        "Radioactive Effluent: Liquid waste containing radioactive substances, often produced by nuclear power plants, research facilities, or medical institutions, which requires careful management to avoid environmental contamination."
+    ],
+    "radioactive pollution": [
+        "Radioactive Pollution: Contamination of the environment by radioactive substances, which can occur from nuclear accidents, improper disposal of radioactive waste, or natural sources, posing serious health and environmental risks."
+    ],
+    "environmental economics": [
+        "Environmental Economics: This is a branch of economics dealing with the relationship between the economy and the environment. It studies how economic activities and policies impact the environment and how environmental policies can be designed to be both economically efficient and effective in solving environmental problems."
+    ],
+    "risk prevention": [
+        "Risk Prevention: In the context of the environment, this refers to the strategies and measures taken to prevent or minimize environmental risks, such as pollution, natural disasters, and climate change."
+    ],
+    "atmospheric conditions": [
+        "Atmospheric Conditions: This term refers to the state of the Earth's atmosphere at a specific time and place, including factors such as temperature, humidity, wind speed, and air quality."
+    ],
+    "ionian sea": [
+        "Ionian Sea: A part of the Mediterranean Sea located between Greece and Italy. It is bounded by the Adriatic Sea to the north and the Mediterranean proper to the south."
+    ],
+    "watercourse": [
+        "Watercourse: This is a natural or man-made channel through which water flows, such as a river, stream, or canal."
+    ],
+    "bird": [
+        "Bird: Birds are a group of warm-blooded vertebrates constituting the class Aves, characterized by feathers, toothless beaked jaws, the laying of hard-shelled eggs, a high metabolic rate, and a lightweight but strong skeleton."
+    ],
+    "coastal pollution": [
+        "Coastal Pollution: This refers to contamination of coastal environments, including oceans, seas, estuaries, and beaches, primarily caused by human activities such as industrial discharges, oil spills, and urban runoff."
+    ],
+    "pollution from ships": [
+        "Pollution from Ships: This is environmental pollution caused by ships and includes oil spills, garbage disposal, and air pollution from ship exhausts."
+    ],
+    "radioactive waste": [
+        "Radioactive Waste: This is waste that contains radioactive substances. It is usually a by-product of nuclear power generation and other applications of nuclear fission or nuclear technology, like research and medicine."
+    ],
+    "water protection": [
+        "Water Protection: This term refers to the policies, practices, and actions aimed at protecting water resources from pollution, overuse, and degradation to ensure clean, safe, and sustainable water for various uses."
+    ],
+    "frigid zone": [
+        "Frigid Zone: The Frigid Zones are the polar regions of the Earth, surrounding the North and South Poles. These areas experience extremely cold temperatures and are covered in ice for most or all of the year."
+    ],
+    "waste incineration": [
+        "Waste Incineration: This is a waste treatment process that involves the combustion of organic substances contained in waste materials. It's used to dispose of waste materials by burning them."
+    ],
+    "red sea": [
+        "Red Sea: A seawater inlet of the Indian Ocean, lying between Africa and Asia. It is a key global trade route and is known for its rich marine life and coral reefs."
+    ],
+    "metal waste": [
+        "Metal Waste: This refers to waste materials composed of metals or metallic compounds. It can include everything from industrial scrap metal to domestic items like aluminum cans."
+    ],
+    "tyrrhenian sea": [
+        "Tyrrhenian Sea: A part of the Mediterranean Sea off the western coast of Italy. It is bounded by the islands of Corsica and Sardinia (west), the Italian Peninsula (east), and Sicily (south)."
+    ],
+    "stratospheric pollutant": [
+        "Stratospheric Pollutant: These are pollutants that are found in the stratosphere, the second major layer of Earth's atmosphere. They can include substances like CFCs (chlorofluorocarbons) which have been known to deplete the ozone layer."
+    ],
+    "atmospheric pollutant": [
+        "Atmospheric Pollutant: These are substances in the air like dust that can cause harm to humans and the environment. Examples include carbon monoxide, sulfur dioxide, nitrogen oxides, and particulate matter like dust."
+    ],
+    "acid rain": [
+        "Acid Rain: Rainfall made sufficiently acidic by atmospheric pollution that it causes environmental harm, typically to forests and lakes. The main cause is the industrial burning of coal and other fossil fuels, the waste gases of which contain sulfur and nitrogen oxides."
+    ],
+    "atmosphere": [
+        "Atmosphere: The envelope of gases surrounding the earth or another planet. It's composed primarily of nitrogen and oxygen, with smaller amounts of other gases like carbon dioxide and water vapor."
+    ],
+    "ecological balance": [
+        "Ecological Balance: This refers to a state of dynamic equilibrium within a community of organisms in which genetic, species, and ecosystem diversity remain relatively stable, subject to gradual changes through natural succession."
+    ],
+    "ozone": [
+        "Ozone: It is a gas present in the atmosphere. Its each molecule composed of three oxygen atoms. In the Earth's stratosphere, ozone forms a layer that shields the planet from the sun's ultraviolet radiation."
+    ]
+}
