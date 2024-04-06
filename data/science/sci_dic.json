@@ -1,0 +1,1289 @@
+{
+    "Surgery": [
+        "Surgery is a medical specialty that involves operative procedures to investigate or treat pathological conditions such as injury, disease, or deformity. Surgeons use manual or instrumental techniques on a patient to explore, diagnose, or treat a variety of health issues, often employing minimally invasive or invasive methods."
+    ],
+    "Seismology": [
+        "Seismology is the scientific study of earthquakes and the propagation of elastic waves through the Earth or through other planet-like bodies. It encompasses the investigation of seismic waves, the structure of the Earth's interior, and the processes that lead to earthquakes, including the movement of tectonic plates."
+    ],
+    "Curvilinear correlation": [
+        "Curvilinear correlation refers to the statistical relationship between two variables that is not linear but instead follows a curved or nonlinear pattern. In other words, as one variable changes, the other variable does not change at a constant rate, but rather at a varying rate, creating a curved pattern when plotted on a graph."
+    ],
+    "Femtochemistry": [
+        "Femtochemistry is a branch of chemistry that studies chemical reactions on extremely short timescales, typically on the order of femtoseconds (10^-15 seconds). It aims to understand the dynamics and mechanisms of chemical reactions at the atomic and molecular level, often using advanced laser spectroscopy techniques."
+    ],
+    "Osteology": [
+        "Osteology is the scientific study of bones, including their structure, development, function, and classification across different species. Osteologists examine skeletal remains to understand aspects of human and animal anatomy, evolution, and health, as well as to aid in forensic investigations and archaeological research."
+    ],
+    "Gynecology": [
+        "Gynecology is a medical specialty focused on the health and diseases of the female reproductive system, including the uterus, ovaries, and vagina. Gynecologists diagnose and treat various conditions such as menstrual disorders, infertility, sexually transmitted infections, and reproductive cancers, and they also provide preventive care, contraception, and prenatal services."
+    ],
+    "Mythology": [
+        "Mythology refers to the collection of myths, legends, and stories that belong to a particular cultural or religious tradition. It often involves supernatural beings, heroes, and events that explain the origins of the world, natural phenomena, and human society. Mythology serves to convey cultural beliefs, values, and traditions through narrative storytelling."
+    ],
+    "Architectonics": [
+        "Architectonics is the study or theory of architectural design and structure, including the principles, methods, and aesthetics involved in creating buildings and other structures. It encompasses the organization of space, form, function, and the relationship between architecture and its social, cultural, and environmental context."
+    ],
+    "Gross anatomy": [
+        "Gross anatomy, also known as macroscopic anatomy, is the study of the structure of the body and its organs and tissues visible to the naked eye without the aid of magnification. It involves the examination of anatomical structures through dissection and observation to understand their relationships, functions, and variations among individuals."
+    ],
+    "Machine translation": [
+        "Machine translation is the automated process of translating text or speech from one language to another using computer algorithms and artificial intelligence techniques. It involves analyzing the input text, generating an intermediate representation, and producing the translated output in the target language. Machine translation systems vary in complexity and accuracy, with some relying on rule-based approaches, statistical models, or neural networks."
+    ],
+    "Ornithology": [
+        "Ornithology is the branch of zoology that deals with the study of birds. It encompasses various aspects of bird biology, including their behavior, ecology, physiology, and evolution."
+    ],
+    "Astrophysics": [
+        "Astrophysics is a branch of astronomy that deals with the physics of celestial objects and phenomena. It involves the study of the properties and behavior of stars, galaxies, black holes, dark matter, and the universe as a whole, using principles and methods from physics."
+    ],
+    "Microelectronics": [
+        "Microelectronics is a subfield of electronics that deals with the design, fabrication, and application of small electronic components and circuits. It focuses on the miniaturization of electronic devices, such as integrated circuits (ICs), microprocessors, and microcontrollers, which are essential components of modern electronic systems."
+    ],
+    "Kinesiology": [
+        "Kinesiology is the scientific study of human movement and the mechanics of body motion. It encompasses various disciplines such as anatomy, physiology, biomechanics, and neuroscience to understand how muscles, bones, and joints work together to produce movement and maintain physical function."
+    ],
+    "Quantum Chromodynamics (QCD)": [
+        "Quantum Chromodynamics is a branch of theoretical physics that studies the strong force, one of the four fundamental forces of nature, which governs the interactions between quarks and gluons, the elementary particles that make up protons, neutrons, and other hadrons. QCD describes the behavior of quarks and gluons within the framework of quantum field theory."
+    ],
+    "Cryogenics": [
+        "Cryogenics is the branch of physics and engineering that deals with the production and behavior of materials at very low temperatures, typically below -150°C (-238°F). It involves the study of phenomena such as superconductivity, superfluidity, and the behavior of materials in extreme cold conditions, with applications in fields such as medicine, aerospace, and research."
+    ],
+    "Avionics": [
+        "Avionics is a specialized field of electronics that deals with the design, development, and integration of electronic systems used in aircraft and spacecraft. It includes systems such as navigation, communication, flight control, instrumentation, and radar, which are essential for the operation and control of modern aircraft and spacecraft."
+    ],
+    "Protohistory": [
+        "Protohistory refers to the period of human history that precedes written records but for which archaeological evidence exists. It typically spans the time between the emergence of early human civilizations and the development of writing systems, varying in duration depending on the region and culture being studied."
+    ],
+    "Fourier Analysis": [
+        "Fourier analysis is a mathematical technique used to decompose complex periodic functions or signals into simpler sinusoidal components through the Fourier transform. It allows the representation of a function as a sum of sinusoidal waves of different frequencies, phases, and amplitudes, providing insights into its frequency content and structure."
+    ],
+    "Information Science": [
+        "Information science is an interdisciplinary field that studies the collection, organization, storage, retrieval, analysis, and dissemination of information. It encompasses various subfields such as library science, computer science, cognitive science, and communication studies, focusing on understanding the nature, properties, and behavior of information systems and processes."
+    ],
+    "Structuralism": [
+        "In science, particularly in fields like psychology and anthropology, structuralism refers to a theoretical approach that seeks to understand the elements of a system and their interrelations. It emphasizes the importance of the underlying structures that shape observable phenomena."
+    ],
+    "Angiology": [
+        "Angiology is the branch of medical science that deals with the study of the blood vessels and the lymphatic system, including their structure, function, and diseases."
+    ],
+    "Geography": [
+        "Geography is the scientific study of the Earth's surface, its features, and the relationships between humans and their environments. It encompasses various sub-disciplines such as physical geography, human geography, and environmental geography."
+    ],
+    "Microscopic Anatomy": [
+        "Microscopic anatomy, also known as histology, is the branch of biology that involves the study of cells and tissues at a microscopic level. It focuses on the structure, organization, and functions of cells and tissues within organisms."
+    ],
+    "Grammar": [
+        "In the science domain, grammar refers to the system of rules governing the structure and use of language. It encompasses syntax (sentence structure), morphology (word structure), semantics (meaning), and phonology (sound system)."
+    ],
+    "Cognitive Psychology": [
+        "Cognitive psychology is a branch of psychology that focuses on the study of mental processes such as perception, memory, reasoning, and problem-solving. It seeks to understand how people acquire, process, and store information."
+    ],
+    "Functional Anatomy": [
+        "Functional anatomy is the branch of anatomy that focuses on the relationship between the structure of an organism and its function. It involves the study of how anatomical structures contribute to the physiological processes of living organisms."
+    ],
+    "Geopolitics": [
+        "Geopolitics is the study of the effects of geography (such as location, resources, and physical terrain) on politics and international relations. It examines how geographical factors influence the behavior of states and the distribution of power in the world."
+    ],
+    "Lexicostatistics": [
+        "Lexicostatistics is a method used in linguistics to quantify the degree of genetic relatedness between languages by comparing their vocabularies. It involves analyzing lexical similarities and differences to infer historical relationships between languages."
+    ],
+    "Projective Geometry": [
+        "Projective geometry is a branch of mathematics that deals with the properties and relationships of geometric figures under projection. It studies the transformations that occur when points, lines, and planes are projected onto another surface or space."
+    ],
+    "Chemistry": [
+        "Chemistry is the branch of science that deals with the composition, structure, properties, and reactions of matter. It encompasses the study of atoms, molecules, ions, and the bonds that hold them together. Chemistry explores the transformations of substances and their interactions to understand the fundamental principles governing matter."
+    ],
+    "Comparative Psychology": [
+        "Comparative psychology is the scientific study of animal behavior and cognition, focusing on comparing and analyzing behavior across different species. It aims to understand the evolutionary, ecological, and physiological factors that shape behavior and cognition in animals, including humans."
+    ],
+    "Endodontics": [
+        "Endodontics is a branch of dentistry concerned with the study, diagnosis, and treatment of dental pulp and the tissues surrounding the roots of teeth. Endodontists specialize in procedures such as root canal therapy, which involves treating infections and injuries to the dental pulp to save teeth."
+    ],
+    "Thermostatics": [
+        "Thermostatics is a branch of thermodynamics that deals with the study of systems in thermal equilibrium, where there is no net transfer of heat between different parts of the system. It focuses on the properties and behavior of such systems under constant temperature conditions."
+    ],
+    "Paleodendrology": [
+        "Paleodendrology is a scientific discipline that involves the study of ancient tree rings (dendrochronology) to understand past climates, environmental conditions, and ecological changes. By analyzing the growth patterns of fossilized or preserved tree rings, paleodendrologists reconstruct historical climate data and environmental fluctuations."
+    ],
+    "Geophysics": [
+        "Geophysics is the branch of Earth science that combines principles of physics to study the physical properties and processes of the Earth and other planets. It encompasses various sub-disciplines, including seismology, geomagnetism, gravity, and geodesy, to investigate phenomena such as earthquakes, volcanic activity, plate tectonics, and the Earth's internal structure."
+    ],
+    "Cognitive Neuroscience": [
+        "Cognitive neuroscience is an interdisciplinary field that explores the neural mechanisms underlying cognitive processes, such as perception, memory, attention, language, and decision-making. It integrates methods and principles from neuroscience, psychology, computer science, and other disciplines to understand how the brain enables cognitive functions."
+    ],
+    "Phrenology": [
+        "Phrenology is a pseudoscience that originated in the 19th century, which claimed that personality traits and mental abilities could be determined by examining the shape and size of bumps and depressions on the skull. It proposed that different areas of the brain were responsible for specific behaviors and characteristics, but it has been discredited as lacking scientific validity."
+    ],
+    "Lepidopterology": [
+        "Lepidopterology is the scientific study of butterflies and moths (Lepidoptera). It involves researching their taxonomy, morphology, ecology, behavior, and evolution. Lepidopterologists often study the life cycles, distribution patterns, and interactions with other organisms to understand the biodiversity and ecological roles of these insects."
+    ],
+    "Plane Geometry": [
+        "Plane geometry, also known as Euclidean geometry, is the branch of mathematics that deals with the properties and relationships of geometric figures and shapes in two-dimensional space, such as points, lines, angles, polygons, circles, and their transformations. It focuses on concepts like distance, area, perimeter, congruence, similarity, and theorems derived from Euclid's axioms."
+    ],
+    "Speleology": [
+        "The scientific study of caves, including their formation, structure, physical properties, and the life forms that inhabit them."
+    ],
+    "Agrobiology": [
+        "The branch of biology that focuses on the study of plants and plant life with specific emphasis on agriculture, including plant physiology, genetics, and ecology as they relate to crop production and management."
+    ],
+    "Geodesy": [
+        "The scientific discipline that deals with the measurement and representation of the Earth's surface, including its shape, gravitational field, and orientation in space. Geodesy is essential for mapping and navigation, as well as for understanding processes such as plate tectonics and sea-level changes."
+    ],
+    "Natural History": [
+        "A broad scientific discipline encompassing the study of organisms, their habitats, and their interactions with each other and the environment. It typically involves the observation and documentation of organisms in their natural settings and often includes aspects of biology, ecology, and geology."
+    ],
+    "Proteomics": [
+        "The branch of molecular biology that focuses on the study of proteins, including their structure, function, and interactions within biological systems. Proteomics often involves techniques such as mass spectrometry and bioinformatics to analyze large sets of proteins."
+    ],
+    "Thoracic Medicine": [
+        "A medical specialty that focuses on the diagnosis and treatment of diseases and conditions affecting the organs and structures within the thoracic cavity, particularly the lungs and heart. It includes areas such as pulmonology and cardiology."
+    ],
+    "Cognitive Semantics": [
+        "A field of study that examines the relationship between language, meaning, and cognition. It explores how linguistic structures and expressions reflect and influence cognitive processes such as categorization, memory, and reasoning."
+    ],
+    "Phonology": [
+        "A branch of linguistics concerned with the study of the sounds used in speech, including their distribution, patterns, and systematic organization within languages. Phonology investigates how sounds are produced and perceived, as well as the rules governing their use and combination in different languages."
+    ],
+    "Aeronautics": [
+        "The science and art of flight within the Earth's atmosphere, including the design, construction, and operation of aircraft. Aeronautics encompasses both theoretical and practical aspects of aviation and often involves disciplines such as aerodynamics, propulsion, and avionics."
+    ],
+    "Astrodynamics": [
+        "A branch of astronomy and aerospace engineering that deals with the motion of objects in space, particularly the trajectories of spacecraft and celestial bodies. Astrodynamics involves the application of principles from classical mechanics and orbital dynamics to analyze and predict the movement of objects in gravitational fields."
+    ],
+    "Audiology": [
+        "The branch of science and medicine concerned with the study of hearing, balance, and related disorders."
+    ],
+    "Radio Astronomy": [
+        "The branch of astronomy that deals with the study of celestial objects through the analysis of their radio frequency emissions."
+    ],
+    "Prescriptive Linguistics": [
+        "A branch of linguistics concerned with establishing rules and norms for correct language usage, often contrasted with descriptive linguistics, which focuses on how language is actually used."
+    ],
+    "Neuroanatomy": [
+        "The study of the structure and organization of the nervous system, especially the brain and spinal cord."
+    ],
+    "Differential Calculus": [
+        "A branch of calculus concerned with the study of rates of change and slopes of curves, typically involving derivatives and their applications."
+    ],
+    "Mineralogy": [
+        "The scientific study of minerals, their composition, structure, properties, and distribution."
+    ],
+    "Orthodontics": [
+        "A branch of dentistry that deals with the diagnosis, prevention, and correction of malpositioned teeth and jaws."
+    ],
+    "Ecology": [
+        "The scientific study of the relationships between organisms and their environment, including the distribution and abundance of organisms, and the interactions among them."
+    ],
+    "Tectonics": [
+        "The scientific study of the Earth's crustal movements, including the formation and deformation of geological structures such as mountains, faults, and plate boundaries."
+    ],
+    "Calculus": [
+        "A branch of mathematics that deals with the study of change, particularly with functions and their rates of change (differential calculus) and accumulation (integral calculus)."
+    ],
+    "Aerology": [
+        "The study of the atmosphere, particularly its physical and chemical properties, processes, and phenomena."
+    ],
+    "Genomics": [
+        "The branch of molecular biology concerned with the structure, function, evolution, and mapping of genomes."
+    ],
+    "Rheumatology": [
+        "A branch of medicine focused on the diagnosis and treatment of diseases and disorders affecting the joints, muscles, and connective tissues."
+    ],
+    "Immunopathology": [
+        "The study of diseases related to disorders of the immune system, including autoimmune diseases, hypersensitivity reactions, and immunodeficiency disorders."
+    ],
+    "Myology": [
+        "The scientific study of muscles, their structure, function, diseases, and disorders."
+    ],
+    "Pure Mathematics": [
+        "Mathematics pursued for its own sake, often abstract and theoretical in nature, without consideration for practical applications."
+    ],
+    "Solar Physics": [
+        "The branch of astrophysics that focuses on the study of the Sun, including its structure, behavior, and effects on the solar system."
+    ],
+    "Entomology": [
+        "The scientific study of insects and their relationships with other organisms, including their anatomy, physiology, behavior, ecology, and evolution."
+    ],
+    "Hydrography": [
+        "The branch of science that deals with the measurement and description of the physical features of bodies of water, including oceans, seas, lakes, and rivers."
+    ],
+    "Morphophonemics": [
+        "The study of the relationship between the sound system (phonology) of a language and its morphology, particularly how morphological processes affect pronunciation."
+    ],
+    "Radiology": [
+        "The branch of medicine that deals with the use of medical imaging techniques, such as X-rays, CT scans, and MRI scans, for diagnosis and treatment of diseases and injuries."
+    ],
+    "Assyriology": [
+        "The study of the history, culture, languages, and archaeology of ancient Mesopotamia, particularly focusing on the civilizations of Sumer, Akkad, Babylonia, and Assyria."
+    ],
+    "Neurology": [
+        "The branch of medicine concerned with the study and treatment of disorders of the nervous system, including the brain, spinal cord, and peripheral nerves."
+    ],
+    "Finance": [
+        "The study of how individuals, businesses, and organizations allocate resources over time, taking into account risks and uncertainties, typically involving investment, banking, and money management."
+    ],
+    "Craniology": [
+        "The study of the shape, size, and structure of human skulls, often associated with outdated theories of racial classification and intelligence."
+    ],
+    "Psychopharmacology": [
+        "The study of the effects of drugs on mood, sensation, thinking, and behavior, particularly in relation to mental disorders and psychological processes."
+    ],
+    "Pharmacogenetics": [
+        "The study of how genetic variations affect an individual's response to drugs, including their efficacy, toxicity, and side effects."
+    ],
+    "Cybernetics": [
+        "The interdisciplinary study of the structure, function, and regulation of systems, particularly involving communication and control in machines and living organisms."
+    ],
+    "Spurious Correlation": [
+        "A statistical term referring to a correlation between two variables that does not have a causal relationship, often resulting from coincidence or the influence of a third variable."
+    ],
+    "Climatology": [
+        "The scientific study of climate, including its patterns, variability, and long-term changes, as well as the factors that influence climate, such as atmospheric composition, ocean currents, and solar radiation."
+    ],
+    "Molecular Genetics": [
+        "Molecular genetics is a branch of biology that studies the structure and function of genes at a molecular level. It involves the study of DNA, RNA, and the mechanisms by which genetic information is transmitted from one generation to the next. Molecular genetics explores how genes are expressed, regulated, and how mutations can lead to genetic diseases or variations in organisms."
+    ],
+    "Quantum Mechanics": [
+        "Quantum mechanics is a fundamental theory in physics that describes the behavior of particles at the smallest scales, such as atoms and subatomic particles. It provides a mathematical framework for understanding phenomena such as particle-wave duality, superposition, and entanglement. Quantum mechanics revolutionized our understanding of the physical world, providing insights into the behavior of matter and energy that classical mechanics cannot explain."
+    ],
+    "Etymology": [
+        "Etymology is the study of the origin and history of words, including their meanings and how they have evolved over time. It explores the connections between words in different languages and traces their roots back to their earliest known forms. Etymology provides insights into linguistic history and cultural influences on language development."
+    ],
+    "Morphology": [
+        "In biology, morphology refers to the study of the form and structure of organisms, including their internal and external features. It examines how these features are shaped by evolutionary processes and how they contribute to the function and adaptation of organisms within their environments. Morphology is also studied in linguistics, where it refers to the structure and formation of words."
+    ],
+    "Pharmacology": [
+        "Pharmacology is the study of drugs and their effects on living organisms. It involves the research, development, and testing of pharmaceutical substances to understand their mechanisms of action, therapeutic uses, and potential side effects. Pharmacology plays a crucial role in healthcare by providing the scientific basis for drug discovery, prescribing practices, and the treatment of diseases."
+    ],
+    "Set Theory": [
+        "Set theory is a branch of mathematics that deals with the study of sets, which are collections of objects. It explores the properties of sets, operations such as union and intersection, and the relationships between different sets. Set theory forms the foundation of modern mathematics and is used in various fields, including logic, algebra, and analysis."
+    ],
+    "Archaeology": [
+        "Archaeology is the study of human history and prehistory through the excavation and analysis of artifacts, structures, and other physical remains. It aims to reconstruct past societies, cultures, and behaviors by examining material evidence and interpreting its significance within a historical context. Archaeology provides insights into the development of human civilizations and the evolution of human culture."
+    ],
+    "Fractal Geometry": [
+        "Fractal geometry is a branch of mathematics that deals with the study of fractals, which are complex geometric shapes that exhibit self-similarity at different scales. Fractals can be found in nature and are characterized by irregular, fragmented shapes with fine structural details. Fractal geometry is used to model and analyze natural phenomena such as coastlines, clouds, and biological structures."
+    ],
+    "Neurophysiology": [
+        "Neurophysiology is the study of the function and properties of the nervous system, including the brain, spinal cord, and nerves. It explores how nerve cells (neurons) communicate with each other and how electrical and chemical signals are processed to control various physiological functions such as movement, sensation, and cognition. Neurophysiology is fundamental to understanding the mechanisms underlying nervous system disorders and developing treatments for neurological conditions."
+    ],
+    "Sociobiology": [
+        "Sociobiology is a branch of biology that explores the evolutionary basis of social behavior in animals, including humans. It examines how natural selection shapes social structures, mating strategies, and altruistic behaviors to maximize reproductive success. Sociobiology integrates principles from genetics, ecology, and evolutionary biology to understand the adaptive significance of social behaviors across different species."
+    ],
+    "Abnormal Psychology": [
+        "Abnormal psychology is a branch of psychology that focuses on the study of abnormal behavior, mental disorders, and psychopathology. It examines the causes, symptoms, and treatment of psychological disorders such as depression, anxiety, schizophrenia, and personality disorders. Abnormal psychology aims to understand the underlying factors contributing to mental illness and to develop effective interventions for individuals experiencing psychological distress."
+    ],
+    "Social Science": [
+        "Social science is a broad field of study that encompasses disciplines such as sociology, anthropology, economics, political science, and psychology. It examines human behavior, social interactions, and societal structures using empirical research methods and theoretical frameworks. Social science seeks to understand the complexities of human societies, including cultural norms, social institutions, and the dynamics of social change."
+    ],
+    "Podiatry": [
+        "Podiatry is a branch of medicine that focuses on the diagnosis, treatment, and prevention of foot and ankle disorders. Podiatrists are healthcare professionals who specialize in podiatric medicine and surgery, addressing conditions such as foot deformities, injuries, infections, and diabetic foot care. Podiatry plays a crucial role in maintaining foot health and mobility for individuals of all ages."
+    ],
+    "Generative Grammar": [
+        "Generative grammar is a theory in linguistics that seeks to explain the structure of sentences in natural languages through underlying rules and principles. It posits that human language is generated by a finite set of rules that can generate an infinite number of grammatically correct sentences. Generative grammar has been influential in understanding language acquisition, linguistic universals, and the cognitive mechanisms underlying language production and comprehension."
+    ],
+    "Mathematics": [
+        "Mathematics is a fundamental field of study that deals with the abstraction, patterns, and structures of numbers, quantities, shapes, and relationships. It encompasses various branches such as algebra, geometry, calculus, statistics, and number theory. Mathematics provides the language and tools for describing and analyzing phenomena in the natural and social sciences, engineering, and technology."
+    ],
+    "Mammalogy": [
+        "Mammalogy is a branch of zoology that focuses on the study of mammals, including their taxonomy, anatomy, physiology, behavior, ecology, and evolution. Mammalogists investigate the diversity and adaptations of mammals in different habitats and ecosystems, ranging from tiny shrews to large whales. Mammalogy contributes to our understanding of mammalian biodiversity and conservation efforts to protect these animals and their habitats."
+    ],
+    "Topography": [
+        "Topography is the study and mapping of the surface features of a region, including its elevation, terrain, and physical characteristics. It involves the measurement and depiction of landforms such as mountains, valleys, rivers, and plains, as well as human-made structures and infrastructure. Topography is essential for various applications, including urban planning, environmental management, and geological exploration."
+    ],
+    "Electrostatics": [
+        "Electrostatics is a branch of physics that deals with the study of electric charges at rest and their interactions. It explores the principles of electrostatic force, charge distribution, and electric fields in static (non-moving) situations. Electrostatics plays a crucial role in understanding phenomena such as static electricity, electrical insulation, and the behavior of charged particles in materials."
+    ],
+    "Clinical Anatomy": [
+        "Clinical anatomy is a specialized branch of anatomy that focuses on the anatomical structures relevant to medical practice and patient care. It involves the study of human anatomy in the context of clinical applications, such as surgery, radiology, and physical therapy. Clinical anatomy provides healthcare professionals with a detailed understanding of the body's structure and function to diagnose and treat medical conditions effectively."
+    ],
+    "Thanatology": [
+        "Thanatology is the scientific study of death and dying, including the physical, psychological, social, and cultural aspects of mortality. It examines the biological processes of death, grief and bereavement, attitudes toward death in different cultures."
+    ],
+    "Neuropsychiatry": [
+        "Neuropsychiatry is a branch of medicine that deals with the study, diagnosis, and treatment of mental disorders attributable to diseases of the nervous system."
+    ],
+    "Prescriptive Grammar": [
+        "Prescriptive grammar refers to the rules and conventions of grammar that are taught and accepted as correct in a particular language. It dictates how language should be used according to established norms, as opposed to descriptive grammar, which describes how language is actually used by speakers."
+    ],
+    "Endocrinology": [
+        "Endocrinology is the branch of biology and medicine concerned with the study of hormones, their functions, and the glands and tissues that produce them. It covers a wide range of systems and functions within the body, including metabolism, growth and development, tissue function, sexual function, reproduction, sleep, and mood, among others."
+    ],
+    "Traumatology": [
+        "Traumatology is the branch of medicine and surgery that deals with the study and management of injuries, especially those caused by accidents or violence. It involves the diagnosis, treatment, and rehabilitation of traumatic injuries to the body, including fractures, dislocations, sprains, strains, and soft tissue injuries."
+    ],
+    "Cardiology": [
+        "Cardiology is the branch of medicine that deals with the study and treatment of disorders of the heart and blood vessels. It involves the diagnosis and management of conditions such as heart disease, heart failure, arrhythmias, coronary artery disease, congenital heart defects, and valvular heart disease."
+    ],
+    "Crystallography": [
+        "Crystallography is the branch of science that studies the arrangement of atoms in crystalline solids. It involves the use of X-ray crystallography, electron diffraction, neutron diffraction, and other techniques to determine the atomic and molecular structure of crystals, which in turn helps in understanding their properties and behavior."
+    ],
+    "Dental Surgery": [
+        "Dental surgery is the branch of dentistry that deals with surgical procedures involving the teeth, gums, jawbones, and related structures of the mouth and face. It includes procedures such as tooth extraction, dental implants, gum surgery, root canal therapy, jaw surgery, and corrective jaw surgery."
+    ],
+    "Ethnology": [
+        "Ethnology is the branch of anthropology that deals with the comparative and analytical study of cultures and societies, with a focus on their customs, beliefs, social organization, language, and other aspects of human behavior and interaction."
+    ],
+    "Tropical Medicine": [
+        "Tropical medicine is the branch of medicine that deals with the study, prevention, diagnosis, and treatment of diseases that are prevalent in tropical and subtropical regions of the world. These diseases are often caused by parasites, bacteria, viruses, and other pathogens that thrive in warm and humid climates, and may include conditions such as malaria, dengue fever, yellow fever, cholera, and schistosomiasis."
+    ],
+    "Solid Geometry": [
+        "Solid geometry is the branch of geometry that deals with the study of three-dimensional shapes, such as cubes, spheres, cones, cylinders, and polyhedra. It involves the measurement and calculation of the volume, surface area, and other properties of solid objects, as well as the study of their spatial relationships and transformations."
+    ],
+    "Spherical Geometry": [
+        "Spherical geometry is the branch of mathematics that deals with figures on the surface of a sphere. It includes concepts such as great circles, spherical triangles, and the properties of curved surfaces."
+    ],
+    "Nuclear Physics": [
+        "Nuclear physics is the branch of physics that studies the properties and behavior of atomic nuclei. It encompasses the structure of atomic nuclei, nuclear reactions, and the application of nuclear phenomena in various fields such as energy production and medicine."
+    ],
+    "Descriptive Linguistics": [
+        "Descriptive linguistics is the branch of linguistics that focuses on objectively describing and analyzing the structure and usage of languages as they are spoken or written by native speakers. It involves studying phonetics, syntax, semantics, and other aspects of language without making judgments about correctness or prescribing norms."
+    ],
+    "Algorism": [
+        "Algorism refers to the study and implementation of algorithms, which are step-by-step procedures or instructions for solving problems or performing tasks. In the context of computer science, algorism is fundamental to programming and computational problem-solving."
+    ],
+    "Negative Correlation": [
+        "Negative correlation refers to a statistical relationship between two variables in which they move in opposite directions. This means that as one variable increases, the other variable decreases, and vice versa."
+    ],
+    "Craniometry": [
+        "Craniometry is the scientific measurement and study of the shape, size, and proportions of skulls. It has been used historically in anthropology and physical anthropology to understand variations in human populations and to make inferences about ancestry, evolution, and behavior."
+    ],
+    "Electromagnetism": [
+        "Electromagnetism is a branch of physics that studies the electromagnetic force, which is one of the four fundamental forces of nature. It encompasses the interaction between electrically charged particles, the generation of magnetic fields by electric currents, and the electromagnetic waves such as light."
+    ],
+    "Behaviorism": [
+        "Behaviorism is a psychological approach that emphasizes the study of observable behaviors and stimuli-response associations, rather than internal mental processes such as thoughts and emotions. It views behavior as a result of conditioning and reinforcement, and it has been influential in areas such as learning theory and behavioral therapy."
+    ],
+    "Rhinolaryngology": [
+        "Rhinolaryngology, also known as otorhinolaryngology or otolaryngology, is the medical specialty that deals with the diagnosis and treatment of disorders and diseases of the ears, nose, and throat (ENT). It includes conditions such as hearing loss, sinusitis, laryngitis, and head and neck cancers."
+    ],
+    "Paleoecology": [
+        "Paleoecology is the scientific study of past ecosystems and the interactions between ancient organisms and their environments. It uses evidence from fossils, sedimentary deposits, and other sources to reconstruct the ecology and biodiversity of prehistoric periods."
+    ],
+    "Sumerology": [
+        "Sumerology is the scholarly study of Sumerian language, literature, history, and culture. Sumer was one of the earliest civilizations in ancient Mesopotamia, and its language, cuneiform script, and contributions to civilization are subjects of interest to scholars in fields such as archaeology, history, and linguistics."
+    ],
+    "Dysgenics": [
+        "Dysgenics refers to the evolutionary process in which the genetic quality of a population declines over time due to factors such as reduced reproductive success among individuals with favorable genetic traits or increased reproductive success among individuals with unfavorable traits. It is often contrasted with eugenics, which aims to improve genetic quality."
+    ],
+    "Earth Science": [
+        "Earth science is a broad interdisciplinary field that encompasses the study of the Earth and its processes, including geology, meteorology, oceanography, and environmental science. It seeks to understand the planet's physical structure, composition, history, and the interactions between its various components."
+    ],
+    "Elliptic Geometry": [
+        "Elliptic geometry is a non-Euclidean geometry in which Euclid's parallel postulate does not hold. In elliptic geometry, there are no parallel lines, and the sum of angles in a triangle is always greater than 180 degrees. It is characterized by the properties of curved spaces resembling the surface of a sphere."
+    ],
+    "Electrochemistry": [
+        "Electrochemistry is the branch of chemistry that studies the relationship between chemical reactions and electricity. It involves the study of electrochemical cells, electrolysis, electrode reactions, and the production and uses of electricity through chemical reactions, such as in batteries and corrosion processes."
+    ],
+    "Botany": [
+        "Botany is the scientific study of plants, including their structure, growth, reproduction, metabolism, classification, and ecology. It encompasses various subdisciplines such as plant anatomy, physiology, genetics, taxonomy, and plant ecology."
+    ],
+    "Orthoepy": [
+        "Orthoepy is the study of correct pronunciation, particularly within the context of a specific language or dialect. It involves the rules and conventions governing the pronunciation of words, including accents, stress patterns, and intonation."
+    ],
+    "Civics": [
+        "Civics is the study of the rights and duties of citizenship, including the structure and functions of government, political institutions, civic participation, and the rights and responsibilities of individuals within a society. It encompasses topics such as democracy, governance, civil rights, and political activism."
+    ],
+    "Numerical Analysis": [
+        "Numerical analysis is a branch of mathematics and computer science that focuses on the development and application of algorithms and computational techniques for solving numerical problems. It involves methods for approximating solutions to mathematical problems that cannot be solved exactly, such as solving equations, integrating functions, and optimizing processes."
+    ],
+    "Quantum Physics": [
+        "Quantum physics, also known as quantum mechanics, is the branch of physics that describes the behavior of matter and energy at the smallest scales, such as atoms and subatomic particles. It encompasses principles such as wave-particle duality, quantization of energy, uncertainty principle, and the probabilistic nature of quantum phenomena. Quantum physics has applications in various fields including particle physics, condensed matter physics, and quantum computing."
+    ],
+    "Cosmography": [
+        "Cosmography refers to the branch of science that deals with the description and mapping of the universe, including its structure, composition, and spatial distribution of celestial objects."
+    ],
+    "Hygiene": [
+        "Hygiene is the science and practice of maintaining health and preventing disease through cleanliness, proper sanitation, and other measures related to personal and public health."
+    ],
+    "Paleomammalogy": [
+        "Paleomammalogy is a branch of paleontology that specifically focuses on the study of ancient mammals, including their evolution, taxonomy, behavior, and ecology, based on fossil evidence."
+    ],
+    "Mechanics": [
+        "Mechanics is the branch of physics that deals with the behavior of physical bodies when subjected to forces or displacements, including the study of motion, forces, energy, and the properties of matter."
+    ],
+    "Geometry": [
+        "Geometry is a branch of mathematics that deals with the study of shapes, sizes, properties, and dimensions of objects in space, as well as the relationships between them."
+    ],
+    "Economics": [
+        "Economics is the social science that studies the production, distribution, and consumption of goods and services, as well as the behavior of individuals, businesses, and governments in allocating resources to satisfy their needs and wants."
+    ],
+    "Psychodynamics": [
+        "Psychodynamics refers to the study of the interplay between the dynamic processes of the mind, including conscious and unconscious mental activity, and how they influence behavior, emotions, and personality development."
+    ],
+    "Integral Calculus": [
+        "Integral calculus is a branch of mathematics that deals with the computation and properties of integrals, which represent the accumulation of quantities over a continuous range, and their applications in various fields such as physics, engineering, and economics."
+    ],
+    "Sociology": [
+        "Sociology is the scientific study of society, social institutions, social behavior, and the relationships between individuals and groups within a given social context."
+    ],
+    "Allergology": [
+        "Allergology is the branch of medicine that deals with the study, diagnosis, and treatment of allergies and allergic diseases, including their causes, symptoms, and immune responses to allergens."
+    ],
+    "Decomposition": [
+        "Decomposition refers to the process by which organic matter breaks down into simpler substances through the action of physical, chemical, and biological processes, typically resulting in the release of nutrients back into the environment."
+    ],
+    "Linear Algebra": [
+        "Linear algebra is a branch of mathematics that deals with vector spaces, linear transformations, and systems of linear equations, and their applications in various fields such as geometry, physics, computer science, and engineering."
+    ],
+    "Fetology": [
+        "Fetology is the branch of medicine that deals with the study of the fetus, including its development, physiology, and pathology, as well as prenatal diagnosis and treatment of fetal disorders."
+    ],
+    "Statistical Mechanics": [
+        "Statistical mechanics is a branch of theoretical physics that applies statistical methods to predict the behavior of large systems of particles, such as gases, liquids, and solids, based on the properties and interactions of individual particles."
+    ],
+    "Nephrology": [
+        "Nephrology is the branch of medicine that deals with the study, diagnosis, and treatment of kidney diseases, including their causes, symptoms, prevention, and management, as well as renal physiology and dialysis techniques."
+    ],
+    "Paleobiology": [
+        "Paleobiology is the interdisciplinary field of science that combines paleontology and biology to study the biology, ecology, and evolution of organisms throughout geological time, based on fossil evidence and comparative anatomy."
+    ],
+    "Hyperbolic Geometry": [
+        "Hyperbolic geometry is a non-Euclidean geometry that differs from Euclidean geometry in that it contains multiple lines parallel to a given line through a point outside the line, and it exhibits properties such as hyperbolic trigonometry and negative curvature."
+    ],
+    "Cosmetic Dentistry": [
+        "Cosmetic dentistry is a branch of dentistry that focuses on improving the appearance of teeth, gums, and smiles through various dental procedures and treatments, such as teeth whitening, veneers, bonding, and orthodontics."
+    ],
+    "Arithmetic": [
+        "Arithmetic is the branch of mathematics that deals with the basic operations of numbers, including addition, subtraction, multiplication, division, and their properties, as well as the study of whole numbers, fractions, decimals, and integers."
+    ],
+    "Toxicology": [
+        "Toxicology is the branch of science that deals with the study of the adverse effects of chemicals, drugs, toxins, and other substances on living organisms, including their mechanisms of action, dose-response relationships, and methods of detection and prevention."
+    ],
+    "Photochemistry": [
+        "The branch of chemistry that deals with the chemical effects of light and the reactions it causes."
+    ],
+    "Cytology": [
+        "The branch of biology that deals with the study of cells, including their structure, function, and interactions with each other and their environment."
+    ],
+    "Biophysics": [
+        "The interdisciplinary field that applies principles and methods of physics to understand biological systems, ranging from molecules and cells to organisms."
+    ],
+    "Brain science": [
+        "An umbrella term that encompasses various scientific disciplines (such as neuroscience, psychology, and cognitive science) focusing on the study of the brain and its functions."
+    ],
+    "Molecular biology": [
+        "The branch of biology that focuses on the study of biological processes at the molecular level, particularly the structure and function of nucleic acids and proteins."
+    ],
+    "Elementary geometry": [
+        "The branch of mathematics that deals with basic geometric shapes, such as points, lines, angles, and polygons, as well as their properties and relationships."
+    ],
+    "Economic geology": [
+        "The branch of geology that focuses on the study of Earth's mineral resources and their exploration, extraction, and utilization in economic activities."
+    ],
+    "Surface chemistry": [
+        "The branch of chemistry that deals with the study of chemical reactions and phenomena that occur at the interfaces of different phases, particularly at the surfaces of solids, liquids, and gases."
+    ],
+    "Functional genomics": [
+        "The field of genomics that focuses on understanding the structure, function, and interactions of genes and their products (proteins and RNAs) on a genome-wide scale."
+    ],
+    "Non-Euclidean geometry": [
+        "A geometry that is based on axioms different from those of Euclidean geometry, particularly exploring geometries where Euclid's parallel postulate does not hold true."
+    ],
+    "Microbiology": [
+        "The branch of biology that deals with the study of microorganisms, including bacteria, viruses, fungi, and protists, and their interactions with other organisms and their environments."
+    ],
+    "Kinematics": [
+        "The branch of physics that deals with the motion of objects without considering the forces causing the motion, focusing on parameters such as position, velocity, and acceleration."
+    ],
+    "Nephology": [
+        "The branch of meteorology that deals with the study of clouds, including their formation, classification, and physical properties."
+    ],
+    "Pharmacokinetics": [
+        "The branch of pharmacology that deals with the study of the absorption, distribution, metabolism, and excretion (ADME) of drugs in the body, as well as the factors influencing these processes."
+    ],
+    "Freudian psychology": [
+        "A psychological theory and therapy approach developed by Sigmund Freud, focusing on the unconscious mind, childhood experiences, and the dynamics of personality structure, including the id, ego, and superego."
+    ],
+    "Epidemiology": [
+        "The branch of medicine that deals with the study of the distribution and determinants of health-related states or events in specified populations, and the application of this study to control health problems."
+    ],
+    "Biotechnology": [
+        "The interdisciplinary field that applies biological principles, techniques, and organisms to develop products and processes for various applications, including medicine, agriculture, and industry."
+    ],
+    "Paleontology": [
+        "The branch of science that deals with the study of fossils and ancient life forms to understand the history of life on Earth, including evolution, biodiversity, and paleoenvironments."
+    ],
+    "Otology": [
+        "The branch of medicine that deals with the study and treatment of disorders and diseases of the ear and its related structures."
+    ],
+    "Biogeography": [
+        "The interdisciplinary field that combines biology and geography to study the distribution of species and ecosystems across space and time, and the factors influencing these distributions."
+    ],
+    "Micropaleontology": [
+        "The branch of paleontology that deals with the study of microscopic fossils, typically those that are smaller than one millimeter. It focuses on the examination of microfossils found in sedimentary rocks to understand past environments, climate change, and evolutionary history."
+    ],
+    "Silviculture": [
+        "The branch of forestry concerned with the cultivation and management of forest trees. It involves practices such as planting, tending, and harvesting forests to achieve specific objectives such as timber production, biodiversity conservation, or ecosystem restoration."
+    ],
+    "Conchology": [
+        "The scientific study of shells, typically referring to the study of mollusk shells. Conchologists examine the morphology, classification, distribution, and ecology of shells, contributing to our understanding of biodiversity, evolution, and paleoenvironments."
+    ],
+    "Paleology": [
+        "This term is not commonly used in the scientific domain. However, it could refer to the study of ancient or prehistoric things, particularly in the context of paleoanthropology or archaeology."
+    ],
+    "Topology": [
+        "A branch of mathematics that deals with the properties of geometric figures that are unchanged when the figures are stretched, twisted, or deformed but not torn or broken. In scientific contexts, topology is applied in various fields such as physics, biology, and computer science to analyze spatial relationships and connectivity."
+    ],
+    "Astrometry": [
+        "The branch of astronomy that involves the precise measurement of the positions and motions of celestial objects. Astrometry aims to determine the positions, distances, and motions of stars, planets, asteroids, and other celestial bodies, contributing to our understanding of the structure and dynamics of the universe."
+    ],
+    "Probability theory": [
+        "A branch of mathematics concerned with quantifying uncertainty and randomness. Probability theory provides a framework for analyzing and predicting the likelihood of different outcomes in various situations, and it is widely used in statistics, physics, finance, and other scientific disciplines."
+    ],
+    "Holography": [
+        "A technique that enables the recording and reconstruction of three-dimensional images using laser light. In scientific applications, holography is used in fields such as microscopy, interferometry, and medical imaging to capture detailed spatial information with high resolution."
+    ],
+    "Prosthodontics": [
+        "A branch of dentistry concerned with the design, manufacture, and fitting of artificial replacements for missing teeth and other oral structures. Prosthodontists specialize in restoring and enhancing oral function and aesthetics through the use of dental prostheses such as dentures, bridges, and dental implants."
+    ],
+    "Regional anatomy": [
+        "The study of the structure and organization of specific regions of the body, typically focusing on the relationships between organs, tissues, muscles, and other anatomical structures within a particular region. Regional anatomy provides a detailed understanding of the anatomy of specific body parts and is essential for medical practitioners and researchers."
+    ],
+    "Teratology": [
+        "The branch of biology and medicine concerned with the study of abnormal development and congenital abnormalities, particularly in embryos and fetuses. Teratologists investigate the causes, mechanisms, and effects of birth defects, aiming to prevent and treat developmental disorders."
+    ],
+    "Mining geology": [
+        "A field of geology that focuses on the exploration, evaluation, and extraction of mineral resources from the Earth's crust. Mining geologists study the geological processes and structures that control the formation and distribution of mineral deposits, contributing to mineral exploration and resource management."
+    ],
+    "Geochemistry": [
+        "The branch of chemistry that deals with the chemical composition, structure, and processes of the Earth and other planets. Geochemists study the distribution and cycling of elements and compounds in the Earth's crust, oceans, atmosphere, and biosphere, providing insights into geological, environmental, and planetary processes."
+    ],
+    "Vertebrate paleontology": [
+        "The branch of paleontology that focuses on the study of fossilized remains of vertebrates, including fish, amphibians, reptiles, birds, and mammals. Vertebrate paleontologists investigate the evolutionary history, diversity, and ecology of vertebrate animals, contributing to our understanding of past ecosystems and the history of life on Earth."
+    ],
+    "Alienism": [
+        "Historically, a term used to refer to the study and treatment of mental illness or insanity. In modern usage, it has largely been replaced by terms such as psychiatry or clinical psychology."
+    ],
+    "Biomedical science": [
+        "An interdisciplinary field that combines knowledge and techniques from biology, chemistry, physics, and other scientific disciplines to study the mechanisms of human health and disease. Biomedical scientists conduct research to understand the underlying causes of diseases, develop diagnostic tools, and design therapies and treatments to improve human health."
+    ],
+    "Memory": [
+        "In the context of cognitive psychology and neuroscience, memory refers to the processes involved in encoding, storing, and retrieving information. Memory research explores how information is acquired, consolidated, and retrieved over time, contributing to our understanding of learning, cognition, and brain function."
+    ],
+    "Acoustics": [
+        "The branch of physics concerned with the production, transmission, and reception of sound waves. Acoustics encompasses the study of sound generation, propagation, and behavior in various media, as well as its effects on humans and the environment. It has applications in fields such as music, engineering, communication, and medicine."
+    ],
+    "Histology": [
+        "The branch of biology concerned with the microscopic study of tissues and cells. Histologists use various techniques to prepare tissue samples for microscopic examination, allowing them to investigate the structure, organization, and function of different types of tissues in plants and animals."
+    ],
+    "Physiology": [
+        "The branch of biology that deals with the functions and mechanisms of living organisms and their parts. Physiologists study how cells, tissues, organs, and organ systems work together to maintain homeostasis and carry out essential processes such as metabolism, growth, and reproduction."
+    ],
+    "Paleornithology": [
+        "The branch of science that studies ancient birds, their evolution, behavior, ecology, and morphology through the examination of fossilized remains and other evidence."
+    ],
+    "Physical Geography": [
+        "A branch of natural science that studies the Earth's surface and the processes that shape it, including landforms, climates, soils, vegetation, and the interaction between humans and the environment."
+    ],
+    "Neurobiology": [
+        "The scientific discipline that investigates the structure, function, development, and pathology of the nervous system, including the brain, spinal cord, and peripheral nerves, at the cellular and molecular levels."
+    ],
+    "Metallurgy": [
+        "The science and technology of extracting metals from their ores, refining them, and preparing them for use, as well as the study of their properties, production processes, and applications."
+    ],
+    "Egyptology": [
+        "The study of ancient Egyptian history, culture, language, art, religion, and society, including the decipherment of hieroglyphs and the excavation and interpretation of archaeological remains."
+    ],
+    "Enzymology": [
+        "The branch of biochemistry that deals with the study of enzymes, including their structure, function, mechanism of action, regulation, and applications in biotechnology and medicine."
+    ],
+    "Harmonics": [
+        "The branch of physics and music theory that deals with the generation, transmission, propagation, and analysis of sound waves and their properties, including pitch, frequency, amplitude, and timbre."
+    ],
+    "Oncology": [
+        "The branch of medicine that deals with the study, diagnosis, treatment, and prevention of cancer, including the biology of cancer cells, tumor growth, metastasis, and the development of therapeutic strategies."
+    ],
+    "Bioclimatology": [
+        "The interdisciplinary field that combines aspects of biology and climatology to study the effects of climate on living organisms, including their physiology, ecology, distribution, and adaptation to environmental conditions."
+    ],
+    "Developmental Psychology": [
+        "The branch of psychology that studies human development across the lifespan, including physical, cognitive, social, emotional, and behavioral changes from infancy to old age, and the factors that influence development."
+    ],
+    "Petroleum Geology": [
+        "The branch of geology that focuses on the exploration, discovery, extraction, and production of petroleum and natural gas resources, including the study of sedimentary basins, reservoirs, traps, and migration pathways."
+    ],
+    "Matrix Algebra": [
+        "A branch of mathematics that deals with matrices, which are arrays of numbers or symbols arranged in rows and columns, and their operations such as addition, subtraction, multiplication, inversion, and determinants."
+    ],
+    "Electronics": [
+        "The branch of physics and engineering that deals with the behavior and control of electrons and other charged particles in electronic devices and circuits, including semiconductors, transistors, diodes, integrated circuits, and electronic systems."
+    ],
+    "Clinical Psychology": [
+        "The branch of psychology that focuses on the assessment, diagnosis, treatment, and prevention of mental disorders and psychological problems, as well as the promotion of mental health and well-being through therapy, counseling, and interventions."
+    ],
+    "Lexical Semantics": [
+        "The branch of linguistics and cognitive science that studies the meaning and interpretation of words and phrases in language, including their relationships, categorization, ambiguity, context-dependence, and semantic change."
+    ],
+    "Phytochemistry": [
+        "The branch of chemistry that deals with the chemical composition, structure, properties, and bioactivities of plant compounds, including secondary metabolites such as alkaloids, flavonoids, terpenoids, and phenolics."
+    ],
+    "Psychology": [
+        "The scientific study of behavior and mental processes, including cognition, emotion, perception, motivation, personality, development, social interactions, and mental health, using empirical methods and theories."
+    ],
+    "Ophthalmology": [
+        "The branch of medicine that deals with the anatomy, physiology, pathology, diagnosis, and treatment of disorders and diseases of the eye and visual system, including refractive errors, infections, injuries, and degenerative conditions."
+    ],
+    "Correlation": [
+        "In statistics, a measure of the strength and direction of the relationship between two variables, indicating how closely they vary together. A positive correlation means that as one variable increases, the other also tends to increase, while a negative correlation means that as one variable increases, the other tends to decrease."
+    ],
+    "Macroeconomics": [
+        "The branch of economics that deals with the study of the economy as a whole, including aggregate measures such as national income, output, employment, inflation, and economic growth, and the policies that influence these variables, such as fiscal and monetary policy."
+    ],
+    "Trigonometry": [
+        "Trigonometry is a branch of mathematics that deals with the study of relationships between the angles and sides of triangles. It has applications in various fields including physics, engineering, astronomy, and surveying."
+    ],
+    "Economic geography": [
+        "Economic geography is a branch of geography that studies the spatial distribution of economic activities and the factors that influence them, such as resources, markets, transportation, and globalization."
+    ],
+    "Hydrology": [
+        "Hydrology is the scientific study of the movement, distribution, and quality of water on Earth and other planets, including the hydrologic cycle, water resources, and environmental processes related to water."
+    ],
+    "Paletiology": [
+        "Paletiology is a term that does not have a widely recognized definition within the scientific community. It may be a misspelling or a term used in a specific context or field."
+    ],
+    "Pediatrics": [
+        "Pediatrics is the branch of medicine that deals with the medical care of infants, children, and adolescents, typically up to the age of 18. Pediatricians specialize in diagnosing, treating, and preventing illnesses and diseases that affect young individuals."
+    ],
+    "Applied psychology": [
+        "Applied psychology is the branch of psychology that applies psychological principles and theories to practical problems in various fields such as clinical psychology, organizational psychology, educational psychology, and counseling psychology."
+    ],
+    "Proxemics": [
+        "Proxemics is the study of the spatial relationships between individuals in different cultures and how these relationships influence behavior, communication, and social interactions."
+    ],
+    "Proctology": [
+        "Proctology, also known as colorectal surgery, is a branch of medicine that deals with the diagnosis and treatment of disorders and diseases of the colon, rectum, and anus."
+    ],
+    "Limnology": [
+        "Limnology is the scientific study of inland waters such as lakes, ponds, rivers, and streams, including their physical, chemical, biological, and ecological characteristics."
+    ],
+    "Thermodynamics": [
+        "Thermodynamics is a branch of physics that deals with the study of energy, heat, and work, and their relationships to properties of matter. It includes principles such as the laws of thermodynamics, which govern energy transfer and transformation."
+    ],
+    "Sports medicine": [
+        "Sports medicine is a branch of medicine that focuses on the prevention, diagnosis, treatment, and rehabilitation of injuries related to sports and exercise, as well as the optimization of athletic performance."
+    ],
+    "Malacology": [
+        "Malacology is the branch of zoology that deals with the study of mollusks, including snails, slugs, clams, mussels, and octopuses."
+    ],
+    "Eugenics": [
+        "Eugenics is a controversial social and scientific movement that advocates for improving the genetic quality of the human population through selective breeding, sterilization, and other interventions, often with the aim of promoting desirable traits and eliminating undesirable ones."
+    ],
+    "Dermatology": [
+        "Dermatology is the branch of medicine that deals with the diagnosis, treatment, and prevention of diseases and disorders of the skin, hair, nails, and mucous membranes."
+    ],
+    "Reflexology": [
+        "Reflexology is a complementary therapy that involves applying pressure to specific points on the hands, feet, and ears, which are believed to correspond to different organs and systems of the body, in order to promote relaxation, reduce pain, and improve overall health."
+    ],
+    "Particle physics": [
+        "Particle physics is a branch of physics that studies the fundamental particles and forces that make up the universe, including their properties, interactions, and the underlying laws and principles governing their behavior."
+    ],
+    "First-order correlation": [
+        "In statistics, a first-order correlation refers to the correlation between two variables, often denoted as Pearson's correlation coefficient (r), which measures the strength and direction of the linear relationship between them."
+    ],
+    "Genetic engineering": [
+        "Genetic engineering is the manipulation of an organism's genetic material using biotechnology techniques to alter its characteristics or introduce new traits. This can involve the insertion, deletion, or modification of genes to achieve specific outcomes such as improved crop yield, disease resistance, or the production of pharmaceuticals."
+    ],
+    "Dietetics": [
+        "Dietetics is the science and art of applying the principles of nutrition to the planning and preparation of foods in order to promote health and prevent and treat diseases. Dietitians work with individuals and communities to develop personalized dietary plans and provide nutrition education and counseling."
+    ],
+    "Paleozoology": [
+        "Paleozoology is the branch of paleontology that focuses on the study of fossil animals, including their evolution, classification, ecology, behavior, and distribution during the Paleozoic Era, which lasted from about 541 to 252 million years ago."
+    ],
+    "Emergency Medicine": [
+        "A medical specialty involving the immediate assessment, diagnosis, and treatment of acute illnesses and injuries that require immediate medical attention. It focuses on rapid stabilization and management of critical conditions in emergency situations."
+    ],
+    "Deixis": [
+        "In linguistics, deixis refers to the phenomenon of words or phrases within a sentence that require contextual information to be correctly interpreted. These words, such as pronouns and demonstratives, rely on the speaker's or listener's shared understanding of the surrounding context."
+    ],
+    "Developmental Anatomy": [
+        "The study of the structural changes that occur in an organism throughout its lifespan, from conception to adulthood. It examines how the body's tissues, organs, and systems develop and mature over time."
+    ],
+    "Astronomy": [
+        "The scientific study of celestial objects, such as stars, planets, galaxies, and the universe as a whole. It encompasses various subfields, including observational astronomy, theoretical astrophysics, and cosmology, aiming to understand the origins, evolution, and behavior of astronomical phenomena."
+    ],
+    "Dermatoglyphics": [
+        "The study of the patterns, ridges, and configurations of skin ridges on the fingers, palms, toes, and soles. Dermatoglyphics is often used in anthropology, genetics, and forensics to analyze individual variations and hereditary traits."
+    ],
+    "Paleogeology": [
+        "The branch of geology that deals with the study of the Earth's history prior to the present, focusing on the formation, composition, and evolution of geological features, including rocks, minerals, fossils, and landscapes, during different geological eras."
+    ],
+    "Algebra": [
+        "A branch of mathematics that deals with symbols and the rules for manipulating these symbols to solve equations and represent mathematical relationships. Algebra includes topics such as equations, polynomials, functions, and abstract algebraic structures."
+    ],
+    "Supply Side Economics": [
+        "An economic theory that emphasizes policies aimed at increasing the production and supply of goods and services as a means to stimulate economic growth and prosperity. Supply-side policies often focus on reducing barriers to production, such as taxes and regulations, to incentivize investment, innovation, and entrepreneurship."
+    ],
+    "Bioremediation": [
+        "A process that uses biological organisms, such as bacteria, fungi, and plants, to remove or neutralize pollutants and contaminants from the environment. Bioremediation techniques are employed to clean up polluted soil, water, and air by harnessing the natural metabolic processes of living organisms."
+    ],
+    "Celestial Mechanics": [
+        "The branch of astronomy and physics concerned with the motion and gravitational interactions of celestial bodies, such as planets, moons, asteroids, and comets, under the influence of gravity and other forces. Celestial mechanics explains the orbits, rotations, and tidal effects observed in the solar system and beyond."
+    ],
+    "Garbology": [
+        "The interdisciplinary study of garbage, waste management, and consumption patterns in human society. Garbology involves analyzing the composition, disposal, and environmental impacts of waste materials to develop strategies for waste reduction, recycling, and sustainable resource management."
+    ],
+    "Metrology": [
+        "The science of measurement, including the development, maintenance, and application of measurement standards, techniques, and instruments. Metrology plays a crucial role in ensuring the accuracy, consistency, and reliability of measurements across various scientific, industrial, and commercial fields."
+    ],
+    "Life Science": [
+        "A broad field of science that encompasses the study of living organisms and their interactions with each other and their environment. Life sciences include disciplines such as biology, ecology, genetics, microbiology, physiology, and zoology, focusing on understanding the structure, function, and behavior of living systems."
+    ],
+    "Periodontics": [
+        "A branch of dentistry specializing in the diagnosis, prevention, and treatment of diseases and conditions affecting the supporting structures of the teeth, including the gums, alveolar bone, and periodontal ligament. Periodontists focus on maintaining oral health and restoring the function and aesthetics of the periodontium."
+    ],
+    "Hydrodynamics": [
+        "The branch of fluid mechanics that deals with the behavior of fluids in motion, including liquids and gases. Hydrodynamics studies phenomena such as flow patterns, turbulence, drag, and lift, with applications in engineering, meteorology, oceanography, and aeronautics."
+    ],
+    "Hemodynamics": [
+        "The study of the dynamics of blood flow within the circulatory system, including the principles governing blood pressure, velocity, and volume distribution. Hemodynamics examines the interactions between blood vessels, the heart, and the blood, with implications for cardiovascular health and medical diagnostics."
+    ],
+    "Sociolinguistics": [
+        "The interdisciplinary study of language in its social context, focusing on how language use and variation are influenced by social factors such as ethnicity, gender, class, culture, and identity. Sociolinguistics explores language attitudes, norms, and change within communities and across different speech communities."
+    ],
+    "Phonetics": [
+        "The branch of linguistics concerned with the physical properties and articulatory processes involved in the production, transmission, and perception of speech sounds. Phonetics analyzes the sounds of human speech, including their acoustic properties, articulatory gestures, and phonological patterns."
+    ],
+    "Volcanology": [
+        "The scientific study of volcanoes, volcanic activity, and associated phenomena, such as lava flows, volcanic eruptions, and volcanic gases. Volcanologists investigate the processes and hazards related to volcanic events, aiming to understand their causes and mitigate their impacts on human populations and the environment."
+    ],
+    "Prosthetics": [
+        "The branch of medicine and engineering concerned with the design, fabrication, and fitting of artificial limbs, organs, or other body parts to replace or enhance lost or impaired functions. Prosthetics aims to restore mobility, functionality, and aesthetics for individuals with limb loss or congenital limb deficiencies."
+    ],
+    "Fluid Mechanics": [
+        "The branch of science that deals with the behavior of fluids (liquids, gases, and plasmas) at rest or in motion. It encompasses the study of fluid dynamics, viscosity, turbulence, buoyancy, and fluid flow in various contexts such as engineering, meteorology, and oceanography."
+    ],
+    "Pteridology": [
+        "The scientific study of ferns and related plants known as pteridophytes. This field focuses on their classification, morphology, anatomy, ecology, distribution, and evolutionary history."
+    ],
+    "Wave Mechanics": [
+        "A branch of quantum mechanics that describes the behavior of particles, particularly subatomic particles, in terms of wave-like properties. It provides a mathematical framework for understanding the behavior of particles such as electrons, protons, and photons."
+    ],
+    "Physics": [
+        "The natural science that involves the study of matter, energy, and their interactions. Physics seeks to understand the fundamental principles governing the universe, from subatomic particles to galaxies. It encompasses various subfields such as mechanics, electromagnetism, thermodynamics, quantum mechanics, and relativity."
+    ],
+    "Psychometry": [
+        "A branch of psychology that involves the measurement of mental attributes, abilities, or processes, typically through standardized tests and assessments. Psychometry aims to quantify aspects of cognition, personality, intelligence, and behavior."
+    ],
+    "Ritualism": [
+        "In the context of sociology or anthropology, ritualism refers to a set of established, symbolic behaviors or ceremonies performed by individuals or groups within a cultural or social context. Rituals often serve social, religious, or symbolic functions and may convey meaning or reinforce social norms."
+    ],
+    "Electron Optics": [
+        "A branch of physics that deals with the behavior of electrons, particularly their interactions with electric and magnetic fields, as well as with materials. Electron optics is essential for understanding electron microscopy, electron beam lithography, and electron beam welding, among other applications."
+    ],
+    "Orology": [
+        "The scientific study of mountains, including their formation, structure, classification, and geological processes. Orology encompasses aspects of geology, geomorphology, climatology, and ecology related to mountainous regions."
+    ],
+    "Stratigraphy": [
+        "A branch of geology that focuses on the study of rock layers (strata) and their relationships within the Earth's crust. Stratigraphy aims to interpret the chronological sequence, distribution, and correlation of rock strata to understand the geological history, including past environments and events."
+    ],
+    "Selenology": [
+        "The scientific study of the Moon, including its geology, morphology, mineralogy, and formation processes. Selenology involves the analysis of lunar samples, remote sensing data, and theoretical modeling to understand the Moon's origin and evolution."
+    ],
+    "Immunology": [
+        "The branch of biology that deals with the study of the immune system, including its structure, function, and response to pathogens, as well as its role in health and disease. Immunology explores the mechanisms of immune responses, immunological disorders, vaccination, and immunotherapy."
+    ],
+    "Strategics": [
+        "A term often used in military science and management studies, referring to the formulation and implementation of strategies to achieve specific goals or objectives. Strategics involves strategic planning, analysis, decision-making, and resource allocation in various contexts such as warfare, business, and politics."
+    ],
+    "Bacteriology": [
+        "The branch of microbiology that focuses on the study of bacteria, including their morphology, physiology, genetics, ecology, and pathogenicity. Bacteriology plays a crucial role in understanding infectious diseases, antibiotic resistance, microbial ecology, and biotechnology."
+    ],
+    "Natural Language Processing": [
+        "A subfield of artificial intelligence and linguistics that focuses on the interaction between computers and human (natural) languages. Natural Language Processing involves the development of algorithms and techniques to analyze, understand, and generate human language, enabling tasks such as machine translation, sentiment analysis, and speech recognition."
+    ],
+    "Radiobiology": [
+        "The branch of biology that deals with the study of the effects of ionizing radiation on living organisms. Radiobiology explores the mechanisms of radiation-induced damage to cells, tissues, and organisms, as well as the biological responses, such as DNA repair and radiation therapy."
+    ],
+    "Rheology": [
+        "The branch of physics and engineering that deals with the study of the flow and deformation of matter, particularly fluids and soft solids, under applied stresses. Rheology encompasses the characterization of material properties such as viscosity, elasticity, and flow behavior, which are crucial for various industrial processes and product formulations."
+    ],
+    "Spherical Trigonometry": [
+        "A branch of trigonometry that deals with the study of triangles drawn on the surface of a sphere. Spherical trigonometry is used in various fields such as astronomy, navigation, geodesy, and geography to solve problems related to spherical surfaces."
+    ],
+    "Perinatology": [
+        "A branch of medicine that focuses on the care and management of the mother and fetus during pregnancy, childbirth, and the immediate postnatal period. Perinatology aims to optimize maternal and fetal health outcomes, addressing issues such as high-risk pregnancies, prenatal screening, labor complications, and neonatal care."
+    ],
+    "Physical Chemistry": [
+        "The branch of chemistry that applies the principles and techniques of physics to study chemical systems and processes. Physical chemistry investigates the fundamental properties of matter and energy, such as molecular structure, thermodynamics, kinetics, and spectroscopy, to understand chemical phenomena at the molecular and atomic levels."
+    ],
+    "Applied Mathematics": [
+        "A branch of mathematics that focuses on the practical application of mathematical principles and techniques to solve real-world problems in various fields such as engineering, physics, computer science, economics, and biology. Applied mathematics involves mathematical modeling, analysis, and numerical computation to address specific challenges and optimize solutions."
+    ],
+    "Primatology": [
+        "The branch of science that deals with the study of primates, including their behavior, genetics, anatomy, and evolution."
+    ],
+    "Penology": [
+        "The study of the punishment of crime and prison management, including the rehabilitation and reintegration of offenders into society."
+    ],
+    "Quantum Electrodynamics": [
+        "A field of quantum physics that deals with the interaction between light and matter, particularly focusing on the behavior of electrons and photons under the laws of quantum mechanics and electromagnetism."
+    ],
+    "Mycology": [
+        "The scientific study of fungi, including their taxonomy, ecology, physiology, and pathology."
+    ],
+    "Urology": [
+        "The branch of medicine that deals with the study and treatment of disorders of the urinary tract system and male reproductive organs."
+    ],
+    "Nuclear Medicine": [
+        "A medical specialty that uses radioactive substances in the diagnosis and treatment of various diseases, particularly by employing imaging techniques like PET (Positron Emission Tomography) scans and SPECT (Single Photon Emission Computed Tomography) scans."
+    ],
+    "Biosystematics": [
+        "The study of the diversity of life forms and their evolutionary relationships, often involving the classification and naming of organisms based on their genetic, morphological, and ecological characteristics."
+    ],
+    "Geriatrics": [
+        "The branch of medicine that focuses on the health care of elderly individuals, including the prevention, diagnosis, and treatment of age-related diseases and conditions."
+    ],
+    "Criminology": [
+        "The scientific study of crime, criminals, and the criminal justice system, including the causes, consequences, and prevention of criminal behavior."
+    ],
+    "Differential Psychology": [
+        "The branch of psychology that focuses on the study of individual differences in behavior, cognition, and personality, often emphasizing the measurement and comparison of psychological traits."
+    ],
+    "Marine Archaeology": [
+        "The interdisciplinary study of human history and prehistory through the excavation and analysis of underwater archaeological sites and artifacts."
+    ],
+    "Nutrition": [
+        "The scientific study of food, nutrients, and their effects on health, particularly focusing on the role of diet in promoting optimal health and preventing disease."
+    ],
+    "Linear Programming": [
+        "A mathematical method for determining the best outcome in a given mathematical model with linear relationships, often used in optimization problems where resources are limited."
+    ],
+    "Solid State Physics": [
+        "The branch of physics that studies the properties of solid materials, including their structure, electrical, magnetic, and thermal properties, as well as phenomena such as superconductivity and semiconductor behavior."
+    ],
+    "Experimental Psychology": [
+        "A branch of psychology that uses empirical research methods to investigate psychological phenomena, often involving experiments to test hypotheses and theories about human behavior and cognition."
+    ],
+    "Exobiology": [
+        "The scientific study of the possibility of life beyond Earth, including the search for extraterrestrial life forms and the conditions that could support life on other planets or moons."
+    ],
+    "Demography": [
+        "The scientific study of human populations, including their size, structure, distribution, and dynamics, as well as the factors influencing population changes such as birth rates, death rates, and migration."
+    ],
+    "Historical Linguistics": [
+        "The branch of linguistics that studies the history and evolution of languages over time, including the reconstruction of ancient languages and the analysis of language change processes."
+    ],
+    "Orthopedics": [
+        "The branch of medicine that deals with the prevention, diagnosis, and treatment of disorders and injuries of the musculoskeletal system, including bones, joints, ligaments, tendons, and muscles."
+    ],
+    "Computational Linguistics": [
+        "An interdisciplinary field that combines aspects of linguistics, computer science, and artificial intelligence to develop algorithms and models for understanding and processing human language by computers."
+    ],
+    "Semantics": [
+        "Semantics refers to the study of meaning in language, including the relationships between words and phrases and their meanings."
+    ],
+    "Jungian Psychology": [
+        "Jungian psychology is a branch of psychology founded by Carl Jung, focusing on the exploration of the unconscious mind, archetypes, and the collective unconscious."
+    ],
+    "Ichthyology": [
+        "Ichthyology is the branch of biology devoted to the study of fish, including their classification, behavior, physiology, and ecology."
+    ],
+    "Partial Correlation": [
+        "Partial correlation is a statistical technique used to measure the strength and direction of the relationship between two variables while controlling for the influence of one or more other variables."
+    ],
+    "Home Economics": [
+        "Home economics is a field of study that encompasses various aspects of household management, including cooking, nutrition, budgeting, and child development."
+    ],
+    "Politics": [
+        "Politics refers to the activities, actions, and policies associated with governance and decision-making within societies, including the study of political systems, ideologies, and institutions."
+    ],
+    "Dentistry": [
+        "Dentistry is the branch of medicine that deals with the diagnosis, prevention, and treatment of conditions and diseases related to the teeth, gums, and oral cavity."
+    ],
+    "Epigraphy": [
+        "Epigraphy is the study of inscriptions, including their decipherment, interpretation, and historical significance, often focusing on ancient or historical writing systems."
+    ],
+    "Synchronic Linguistics": [
+        "Synchronic linguistics is the study of language at a particular point in time, focusing on its structure, vocabulary, and usage without considering its historical development or evolution."
+    ],
+    "Ethology": [
+        "Ethology is the scientific study of animal behavior, including its development, function, and evolution, often through observation and experimentation."
+    ],
+    "Statics": [
+        "Statics is a branch of mechanics concerned with the analysis of forces acting on objects at rest or in a state of constant motion."
+    ],
+    "Triangulation": [
+        "Triangulation is a method used in various scientific disciplines, including surveying, geography, and social sciences, involving the use of multiple measurements or observations to determine the location or position of a point or object."
+    ],
+    "Realpolitik": [
+        "Realpolitik is a political approach or strategy that prioritizes practical considerations, power dynamics, and national interests over ideological or moral concerns."
+    ],
+    "Biomedicine": [
+        "Biomedicine refers to the application of principles and techniques from biology and other sciences to medical practice and healthcare, including the study of diseases, diagnosis, and treatment."
+    ],
+    "Phycology": [
+        "Phycology is the branch of biology that focuses on the study of algae, including their classification, morphology, ecology, and physiology."
+    ],
+    "Organic Chemistry": [
+        "Organic chemistry is the branch of chemistry concerned with the study of carbon-based compounds, including their structure, properties, reactions, and synthesis."
+    ],
+    "Anesthesiology": [
+        "Anesthesiology is the medical specialty concerned with the administration of anesthesia and the management of pain during surgical procedures or medical interventions."
+    ],
+    "Gastroenterology": [
+        "Gastroenterology is the branch of medicine specializing in the study and treatment of disorders and diseases affecting the gastrointestinal tract, including the esophagus, stomach, intestines, and associated organs."
+    ],
+    "Biology": [
+        "Biology is the scientific study of living organisms and their interactions with each other and their environments, encompassing various subfields such as genetics, ecology, evolution, and physiology."
+    ],
+    "Forensic Medicine": [
+        "Forensic medicine, also known as forensic pathology or legal medicine, is the branch of medicine that deals with the application of medical knowledge and techniques to legal matters, including the investigation of causes of death and the interpretation of medical evidence in legal cases."
+    ],
+    "Paleopathology": [
+        "This is the study of ancient diseases and injuries through examination of skeletal remains and other archaeological evidence."
+    ],
+    "Hypsography": [
+        "It refers to the measurement and description of the Earth's surface elevations, such as mountains, valleys, and plains."
+    ],
+    "Pathology": [
+        "The study of the causes and effects of diseases or injuries, whether physical or psychological, and how they manifest in living organisms."
+    ],
+    "Social Anthropology": [
+        "A branch of anthropology that focuses on the study of human societies and cultures, emphasizing social structures, rituals, customs, and beliefs."
+    ],
+    "Psychophysics": [
+        "It's the scientific study of the relationship between physical stimuli and the sensations and perceptions they evoke in human or animal subjects."
+    ],
+    "Pragmatics": [
+        "A subfield of linguistics that studies the ways in which context contributes to meaning in communication, including the social and cultural factors involved in language use."
+    ],
+    "Ballistics": [
+        "The study of the motion, behavior, and effects of projectiles, especially bullets, rockets, and other missiles."
+    ],
+    "Anatomy": [
+        "The branch of biology concerned with the structure of organisms and their parts, typically through dissection and examination."
+    ],
+    "Undercut": [
+        "In various contexts, this can refer to a type of cut or excavation made beneath the main surface, such as in mining, woodworking, or sculpting."
+    ],
+    "Space Medicine": [
+        "The branch of medicine concerned with the health and well-being of astronauts in space, including the effects of weightlessness, radiation, and confinement."
+    ],
+    "Group Theory": [
+        "A branch of mathematics that deals with the study of symmetry, particularly in the context of operations on sets of elements."
+    ],
+    "Forestry": [
+        "The science and practice of managing forests, including the cultivation, maintenance, and harvesting of trees for timber, fuel, and other resources."
+    ],
+    "Agrology": [
+        "The scientific study of agricultural soils and their management for optimum crop production."
+    ],
+    "Galois Theory": [
+        "A branch of abstract algebra that studies field extensions and their symmetries, named after the French mathematician Évariste Galois."
+    ],
+    "Obstetrics": [
+        "The branch of medicine concerned with childbirth and the care of women before, during, and after pregnancy."
+    ],
+    "Psychotherapy": [
+        "The treatment of mental disorder or distress through psychological techniques, often involving conversations between a therapist and a patient."
+    ],
+    "Medical Science": [
+        "The broad field encompassing the study of health, illness, and medical treatment, including disciplines such as anatomy, physiology, pharmacology, pathology, and epidemiology."
+    ],
+    "Quadratics": [
+        "A branch of algebra dealing with equations of the second degree, involving variables raised to the power of two and typically represented by a parabola when graphed."
+    ],
+    "Physical Anthropology": [
+        "The branch of anthropology concerned with the biological and physical aspects of human beings, including their evolution, genetics, and variation."
+    ],
+    "Medicine": [
+        "The science and practice of diagnosing, treating, and preventing disease, as well as promoting health and well-being in individuals and populations."
+    ],
+    "Systematics": [
+        "The study of the diversity of organisms and their evolutionary relationships, aiming to classify them into hierarchical categories based on shared characteristics and evolutionary history."
+    ],
+    "Geology": [
+        "The scientific study of the Earth, its composition, structure, processes, and history, including the study of rocks, minerals, fossils, landforms, and the forces that shape the Earth's surface."
+    ],
+    "Neuroscience": [
+        "A multidisciplinary field that investigates the structure, function, development, and disorders of the nervous system, including the brain, spinal cord, and peripheral nerves."
+    ],
+    "Plasma Physics": [
+        "The branch of physics that studies the behavior, properties, and dynamics of ionized gases or plasmas, which are considered the fourth state of matter distinct from solid, liquid, and gas."
+    ],
+    "Powder Metallurgy": [
+        "A manufacturing process that involves forming metal powders into desired shapes and then heating them to solidify the particles into a coherent mass, often used to produce parts with complex shapes or unique properties."
+    ],
+    "Immunochemistry": [
+        "The study of the chemical aspects of the immune system, including the structure and function of antibodies, antigens, and other immune molecules, as well as their interactions in immune responses."
+    ],
+    "Serology": [
+        "The branch of medical science that deals with the study of blood serum, particularly in relation to the immune response and the detection of antibodies or antigens in serum samples for diagnostic or research purposes."
+    ],
+    "Catoptrics": [
+        "The branch of optics that deals with the study of reflection, particularly the reflection of light by mirrors and other reflective surfaces, and its applications in optical systems and devices."
+    ],
+    "Dynamics": [
+        "The branch of physics that deals with the study of motion and the forces that cause or change motion, including the principles of mechanics, kinematics, and the behavior of systems under the influence of forces."
+    ],
+    "Psychiatry": [
+        "The branch of medicine that focuses on the diagnosis, treatment, and prevention of mental, emotional, and behavioral disorders, including the study of their biological, psychological, and social aspects."
+    ],
+    "Neonatology": [
+        "A subspecialty of pediatrics that focuses on the medical care of newborn infants, particularly those born prematurely or with medical complications, including the diagnosis, treatment, and prevention of neonatal diseases and disorders."
+    ],
+    "Taxonomy": [
+        "The science of classification, particularly the classification of organisms into hierarchical groups based on their shared characteristics and evolutionary relationships, including the principles and methods used in systematic classification."
+    ],
+    "Inorganic Chemistry": [
+        "The branch of chemistry that deals with the study of inorganic compounds, which typically do not contain carbon-hydrogen bonds, including their structure, properties, reactions, and applications."
+    ],
+    "Pneumatics": [
+        "The branch of physics and engineering that deals with the study of pressurized gases or air and their applications in mechanical systems, including the principles of air compression, transmission, and control."
+    ],
+    "Agronomy": [
+        "The branch of agricultural science that deals with the study of crop production and soil management, including the cultivation of crops, the selection of suitable varieties, and the optimization of agricultural practices for sustainable food production."
+    ],
+    "Neurolinguistics": [
+        "The interdisciplinary study of the neural mechanisms underlying language processing and production, including the brain structures and processes involved in language acquisition, comprehension, and communication."
+    ],
+    "Problem Solving": [
+        "The process of finding solutions to difficult or complex issues or challenges, involving the identification of problems, the generation and evaluation of potential solutions, and the implementation of effective strategies to achieve desired outcomes."
+    ],
+    "Biometrics": [
+        "The science of measuring and analyzing biological data or physical characteristics of individuals for identification or authentication purposes, including fingerprints, facial features, iris patterns, and DNA profiles."
+    ],
+    "Hydrostatics": [
+        "The branch of fluid mechanics that deals with the study of fluids at rest or in equilibrium under the influence of gravity, including the principles of pressure, buoyancy, and fluid behavior in confined spaces."
+    ],
+    "Cytogenetics": [
+        "The branch of genetics that deals with the study of chromosomes, including their structure, function, and abnormalities, particularly in relation to genetic disorders, inheritance patterns, and chromosomal variations."
+    ],
+    "Radiochemistry": [
+        "The branch of chemistry that deals with the chemical effects of radioactivity and the study of radioactive substances."
+    ],
+    "Group dynamics": [
+        "The study of the behavior and interactions of individuals within groups, including how groups form, develop, and function."
+    ],
+    "Structural genomics": [
+        "The study of the three-dimensional structures of biological macromolecules, such as proteins and nucleic acids, on a genome-wide scale."
+    ],
+    "Posology": [
+        "The branch of pharmacology concerned with the determination of appropriate dosages of drugs for medical treatment."
+    ],
+    "Physiological psychology": [
+        "A branch of psychology that studies the physiological basis of behavior, focusing on how the brain and nervous system influence thoughts, feelings, and actions."
+    ],
+    "Formal semantics": [
+        "A branch of linguistics and logic concerned with the precise mathematical description and analysis of meaning in natural language."
+    ],
+    "Syntax": [
+        "The branch of linguistics that studies the rules governing the arrangement of words and phrases to form sentences in a particular language."
+    ],
+    "Paleoclimatology": [
+        "The scientific study of past climates, typically using evidence from geological and environmental records such as ice cores, sediment layers, and fossilized plant and animal remains."
+    ],
+    "Thermionics": [
+        "The study and application of the emission of electrons from heated bodies, typically in the context of vacuum tubes and electronic devices."
+    ],
+    "Descriptive grammar": [
+        "A type of grammar that describes the structure and use of a language as it is actually spoken and written by its speakers, without prescribing rules for correct usage."
+    ],
+    "Macrobiotics": [
+        "A dietary and lifestyle philosophy that emphasizes eating whole, natural foods and achieving balance in all aspects of life for physical and mental well-being."
+    ],
+    "Oceanography": [
+        "The scientific study of the oceans, including their physical, chemical, biological, and geological characteristics and processes."
+    ],
+    "Anthropology": [
+        "The holistic study of human societies and cultures, encompassing aspects such as social organization, cultural beliefs and practices, evolutionary history, and biological diversity."
+    ],
+    "Derivational morphology": [
+        "The branch of linguistics concerned with the formation and analysis of words through the addition of prefixes, suffixes, and other affixes to existing words to create new ones."
+    ],
+    "Geostrategy": [
+        "The study and formulation of strategies for the political, economic, and military use of geographic space."
+    ],
+    "Ethnography": [
+        "A qualitative research method used in anthropology and sociology involving the detailed study and description of specific human cultures and social groups through fieldwork and participant observation."
+    ],
+    "Optics": [
+        "The branch of physics that deals with the behavior and properties of light, including its interactions with matter, the formation of images, and the principles of optical instruments."
+    ],
+    "Dental anatomy": [
+        "The study of the structure, development, and characteristics of teeth in humans and other animals."
+    ],
+    "Protoarcheology": [
+        "The speculative study of prehistoric societies and cultures based on limited evidence, often prior to the development of written records or archaeological evidence."
+    ],
+    "Embryology": [
+        "The branch of biology that studies the development of embryos from fertilization to birth, including the processes of growth, differentiation, and morphogenesis."
+    ],
+    "Paleobotany": [
+        "The branch of botany that deals with the study of plant fossils to understand the evolutionary history, diversity, and ecology of ancient plant life."
+    ],
+    "Cryobiology": [
+        "The branch of biology that studies the effects of extremely low temperatures on living organisms, including the preservation of biological materials through freezing."
+    ],
+    "Metamathematics": [
+        "A field of mathematics that deals with the study of mathematical theories, structures, and concepts themselves, rather than the application of these theories to other areas."
+    ],
+    "Zymology": [
+        "The scientific study of fermentation processes, particularly in relation to the production of alcoholic beverages, bread, and other fermented foods."
+    ],
+    "Aeromechanics": [
+        "The branch of mechanics and physics that deals with the motion of gases and their interaction with solid bodies, particularly as applied to the study of aerodynamics and flight."
+    ],
+    "Sociometry": [
+        "A research method and a field of study within sociology that uses quantitative techniques to analyze social relationships and structures within groups."
+    ],
+    "Positive correlation": [
+        "In statistics, a positive correlation exists between two variables when an increase in one variable is associated with an increase in the other variable, and a decrease in one variable is associated with a decrease in the other variable."
+    ],
+    "Analytic geometry": [
+        "A branch of mathematics that combines elements of algebra and geometry, focusing on the study of geometric figures using coordinates and equations."
+    ],
+    "Natural science": [
+        "A broad field of science that studies the physical world, including physics, chemistry, biology, and earth sciences, with an emphasis on empirical evidence and natural phenomena."
+    ],
+    "Oology": [
+        "The branch of zoology that deals with the study of bird eggs, including their structure, formation, and classification."
+    ],
+    "Internal medicine": [
+        "A medical specialty that focuses on the diagnosis, treatment, and prevention of diseases affecting internal organs and systems in adults."
+    ],
+    "Econometrics": [
+        "A branch of economics that applies statistical methods and mathematical models to analyze and interpret economic data, test economic theories, and forecast future trends."
+    ],
+    "Paleogeography": [
+        "The study of the geography of past geological periods, including the distribution of landmasses, climates, and environments."
+    ],
+    "Calculus of variations": [
+        "A branch of mathematics that deals with finding the optimal values of functions that depend on other functions, involving techniques from calculus and differential equations."
+    ],
+    "Cladistics": [
+        "A method of biological classification that groups organisms based on shared characteristics derived from a common ancestor, emphasizing evolutionary relationships."
+    ],
+    "Virology": [
+        "The branch of microbiology that deals with the study of viruses, including their structure, replication, evolution, and interactions with host organisms."
+    ],
+    "Magnetism": [
+        "A branch of physics that studies the properties and behavior of magnetic fields, magnetic materials, and their interactions with each other and with electric currents."
+    ],
+    "Herpetology": [
+        "The branch of zoology that deals with the study of amphibians and reptiles, including their biology, behavior, ecology, and evolution."
+    ],
+    "Thermochemistry": [
+        "A branch of chemistry that deals with the study of the heat energy changes that occur during chemical reactions and phase transitions."
+    ],
+    "Cosmology": [
+        "The branch of astronomy that deals with the study of the origin, structure, evolution, and eventual fate of the universe as a whole."
+    ],
+    "Pharmacy": [
+        "Pharmacy is the branch of science and technique concerned with the preparation, dispensing, and proper utilization of drugs. It involves understanding the properties of substances and their effects on living organisms to ensure safe and effective medication use."
+    ],
+    "Psycholinguistics": [
+        "Psycholinguistics is the interdisciplinary field that studies the psychological and neurobiological factors that enable humans to acquire, use, comprehend, and produce language. It investigates how language is processed in the brain and how it interacts with cognitive functions."
+    ],
+    "Protozoology": [
+        "Protozoology is the branch of science that focuses on the study of protozoa, which are single-celled microorganisms. It involves their classification, morphology, ecology, behavior, and their roles in various ecosystems and diseases."
+    ],
+    "Magnetohydrodynamics": [
+        "Magnetohydrodynamics (MHD) is a branch of physics and fluid mechanics that studies the behavior of electrically conducting fluids, such as plasmas, liquid metals, and saltwater, in the presence of magnetic fields. It has applications in astrophysics, engineering, and geophysics."
+    ],
+    "Veterinary Medicine": [
+        "Veterinary medicine is the branch of science that deals with the prevention, diagnosis, and treatment of diseases, disorders, and injuries in animals. It encompasses various medical, surgical, and preventive healthcare practices for animals, including pets, livestock, wildlife, and zoo animals."
+    ],
+    "Aeromedicine": [
+        "Aeromedicine is a branch of medicine that focuses on the health and medical issues related to aviation and spaceflight. It involves the study of the physiological effects of altitude, atmospheric pressure, and microgravity on humans, as well as the prevention and treatment of aviation-related medical conditions."
+    ],
+    "Genetics": [
+        "Genetics is the branch of biology that studies genes, heredity, and genetic variation in living organisms. It encompasses the molecular mechanisms of inheritance, genetic traits, genetic disorders, population genetics, and genetic engineering techniques."
+    ],
+    "Compound Morphology": [
+        "Compound morphology is a linguistic subfield that deals with the structure and formation of compound words. It explores how words are combined to create new meanings, syntactic structures, and lexical categories through morphological processes."
+    ],
+    "Nosology": [
+        "Nosology is the branch of medicine that deals with the classification and categorization of diseases and medical conditions. It involves the systematic organization of diseases into taxonomic systems based on their etiology, symptoms, pathology, and other relevant criteria."
+    ],
+    "Therapeutics": [
+        "Therapeutics refers to the branch of medicine concerned with the treatment and management of diseases, disorders, and injuries. It involves the use of various interventions, including medications, surgery, physical therapy, psychotherapy, and lifestyle modifications, to restore health and alleviate symptoms."
+    ],
+    "Paleoanthropology": [
+        "Paleoanthropology is the interdisciplinary field that combines principles of paleontology and anthropology to study the evolutionary history of human ancestors and their relatives. It involves the excavation, analysis, and interpretation of fossil remains, artifacts, and other evidence to reconstruct human evolutionary relationships, behavior, and adaptation."
+    ],
+    "Zoology": [
+        "Zoology is the branch of biology that focuses on the scientific study of animals, including their classification, structure, physiology, behavior, ecology, evolution, and distribution. It encompasses a wide range of animal species, from microscopic organisms to complex vertebrates."
+    ],
+    "Cryptanalysis": [
+        "Cryptanalysis is the science and art of analyzing and deciphering coded messages or encrypted data without access to the corresponding decryption key. It involves mathematical, statistical, and computational techniques to break cryptographic algorithms and reveal the original plaintext."
+    ],
+    "Vector Algebra": [
+        "Vector algebra is a branch of mathematics that deals with the algebraic manipulation and properties of vectors, which are quantities characterized by both magnitude and direction. It includes operations such as addition, subtraction, scalar multiplication, dot product, cross product, and vector equations."
+    ],
+    "Science": [
+        "Science is a systematic enterprise that builds and organizes knowledge in the form of testable explanations and predictions about the universe. It involves the observation, experimentation, measurement, and analysis of natural phenomena to understand the underlying principles governing the physical, biological, and social world."
+    ],
+    "Comparative Anatomy": [
+        "Comparative anatomy is the branch of biology that compares the anatomical structures of different organisms to understand their evolutionary relationships and adaptations. It involves the study of similarities and differences in the anatomy of organs, tissues, and body systems across species."
+    ],
+    "Meteorology": [
+        "Meteorology is the scientific study of the atmosphere, weather patterns, and atmospheric phenomena. It involves the observation, measurement, analysis, and prediction of atmospheric conditions and climate changes using instruments, models, and computational techniques."
+    ],
+    "Inflectional Morphology": [
+        "Inflectional morphology is a linguistic subfield that deals with the modification of words to indicate grammatical categories such as tense, aspect, mood, number, case, and gender. It involves the addition of suffixes, prefixes, or other morphemes to change the form of words within a language."
+    ],
+    "Pomology": [
+        "Pomology is the branch of horticulture that focuses on the cultivation, production, and study of fruit-bearing plants, particularly tree fruits such as apples, oranges, grapes, and peaches. It involves the breeding, propagation, cultivation, and management of fruit trees for optimal yield and quality."
+    ],
+    "Paleography": [
+        "Paleography is the study of ancient or historical handwriting and scripts as a source of information about the past. It involves the deciphering, transcription, and analysis of old manuscripts, inscriptions, and documents to understand their linguistic, cultural, and historical significance."
+    ],
+    "Classical Mechanics": [
+        "The branch of physics concerned with the behavior of macroscopic objects moving under the influence of forces, such as the laws of motion formulated by Isaac Newton."
+    ],
+    "Nonparametric Statistics": [
+        "Statistical methods that do not assume a specific probability distribution for the variables being analyzed. They are used when the data does not meet the assumptions of parametric statistics."
+    ],
+    "Biochemistry": [
+        "The branch of science that deals with the chemical processes and substances that occur within living organisms."
+    ],
+    "Analysis": [
+        "A branch of mathematics dealing with limits, continuity, derivatives, integrals, and infinite series, often used to study functions and their properties."
+    ],
+    "Hematology": [
+        "The branch of medicine and biology concerned with the study of blood, blood-forming organs, and blood diseases."
+    ],
+    "Cognitive Science": [
+        "An interdisciplinary field encompassing the study of the mind, brain, and behavior, integrating principles from psychology, neuroscience, computer science, linguistics, and philosophy to understand how cognitive processes work."
+    ],
+    "Paleoethnography": [
+        "The study of ancient peoples and cultures through the examination of material remains and environmental data."
+    ],
+    "Psephology": [
+        "The study and analysis of elections and voting behavior."
+    ],
+    "Quantum Field Theory": [
+        "A theoretical framework in physics that combines quantum mechanics and field theory to describe the fundamental forces and particles in terms of quantum fields."
+    ],
+    "Affine Geometry": [
+        "A branch of geometry dealing with properties invariant under affine transformations, such as parallelism, ratio of lengths, and angles between affine lines."
+    ],
+    "Exodontics": [
+        "A branch of dentistry that deals with the extraction of teeth."
+    ],
+    "Microeconomics": [
+        "The branch of economics that studies the behavior of individuals and firms in making decisions regarding the allocation of limited resources."
+    ],
+    "Statistics": [
+        "The mathematical study of the collection, analysis, interpretation, and presentation of data. It encompasses various methods for gathering, organizing, and analyzing data to make inferences and predictions about populations."
+    ],
+    "Dialect Geography": [
+        "The study of the geographical distribution of dialects and linguistic variation within a language."
+    ],
+    "Linguistics": [
+        "The scientific study of language and its structure, including the analysis of language form, meaning, and context."
+    ],
+    "Social Psychology": [
+        "The scientific study of how individuals' thoughts, feelings, and behaviors are influenced by the presence of others and the social environment."
+    ],
+    "Petrology": [
+        "The branch of geology that studies the origin, composition, distribution, and structure of rocks."
+    ],
+    "Cryonics": [
+        "The practice or technique of preserving a deceased person's body at very low temperatures in the hope of restoring it to life in the future, typically after medical advances have been made."
+    ],
+    "Euthenics": [
+        "The study of the improvement of human functioning and well-being by improving environmental conditions and factors."
+    ]
+}
