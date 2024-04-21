@@ -43,8 +43,8 @@ wandb.init()
 os.environ["http_proxy"] = "http://proxy61.iitd.ac.in:3128"
 os.environ["https_proxy"] = "http://proxy61.iitd.ac.in:3128"
 
-model_path = "/home/models/llama2-chat-hf/"
-tokenizer_path = "/home/tokenizers/llama2-tokenizer/"
+model_path = "/home/models/llama2-7b-hf/"
+tokenizer_path = "/home/models/llama2-7b-hf/"
 
 peft_config = LoraConfig(task_type=TaskType.CAUSAL_LM,
                          inference_mode=False, r=8, lora_alpha=16, lora_dropout=0.4)
