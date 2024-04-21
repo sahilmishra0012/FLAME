@@ -43,13 +43,13 @@ wandb.init()
 os.environ["http_proxy"] = "http://proxy61.iitd.ac.in:3128"
 os.environ["https_proxy"] = "http://proxy61.iitd.ac.in:3128"
 
-model_path = "/home/models/llama2-7b-hf/"
-tokenizer_path = "/home/models/llama2-7b-hf/"
+model_path = "llama2-7b-hf/"
+tokenizer_path = "llama2-7b-hf/"
 
 peft_config = LoraConfig(task_type=TaskType.CAUSAL_LM,
                          inference_mode=False, r=8, lora_alpha=16, lora_dropout=0.4)
 
-with open(os.path.join("/home/sahil/SoftPrompto/environment/environment_raw_en.taxo")) as f:
+with open(os.path.join("./data/environment/environment_raw_en.taxo")) as f:
     taxonomy = f.readlines()
 
 
@@ -60,7 +60,7 @@ for pair in taxonomy:
     concept_set.add(parent.strip().lower())
     concept_set.add(child.strip().lower())
 
-with open("/home/sahil/SoftPrompto/environment/environment_train.taxo") as f:
+with open("./data/environment/environment_train.taxo") as f:
     train_taxonomy = f.readlines()
 
 train_edges = []
@@ -73,7 +73,7 @@ for line in train_taxonomy:
     taxonomy_edges.append((parent.strip().lower(), child.strip().lower()))
 
 
-f = open('/home/sahil/SoftPrompto/environment/env_dict.json')
+f = open('./data/environment/env_dict.json')
 definitions = json.load(f)
 f.close()
 
@@ -82,10 +82,10 @@ for i in definitions.keys():
     defi[i.strip().lower()] = [definitions[i][0].strip().lower()]
 definitions = defi
 
-with open("/home/sahil/SoftPrompto/environment/environment_eval.gt") as f:
+with open("./data/environment/environment_eval.gt") as f:
     eval_parents = f.readlines()
 
-with open("/home/sahil/SoftPrompto/environment/environment_eval.terms") as f:
+with open("./data/environment/environment_eval.terms") as f:
     eval_children = f.readlines()
 
 class TaxStruct(nx.DiGraph):
